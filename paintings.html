@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"
+        integrity="sha512-cdV6j5t5o24hkSciVrb8Ki6FveC2SgwGfLE31+ZQRHAeSRxYhAQskLkq3dLm8ZcWe1N3vBOEYmmbhzf7NTtFFQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script defer src="./js/paintings.js" ></script>
+        <script defer src="./js/comon.js" ></script>
+        <script src="js/masonry.pkgd.min.js?2"></script>
+        
+
+
+    <link rel="stylesheet" href="./css/comon.css">
+    <link rel="stylesheet" href="./css/paintings.css">
+</head>
+<body>
+    <main>
+        <div class="paintingsMainImg">
+            <h2>Discovering Famous Painting Art</h2>
+            <div class="inputBox">
+                <input list="searchInput" type="text" placeholder="Searching for masterpieces" onkeyup="searchEnter();">
+                <dataList id="searchInput">
+<!--                    <option value="Html"></option>-->
+<!--                    <option></option>-->
+<!--                    <option></option>-->
+<!--                    <option></option>-->
+                </dataList>
+                <img src="./img/icon/search.svg" onclick="searchClick();">
+            </div>
+        </div>
+
+        <div class="Paintingcontent">
+            <h3>Painting Art</h3>
+
+            <div id="mainPaintingUi" class="PaintingList">
+                <ul class="PaintingList01 grid">
+
+                    <!-- <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List01.jpg" alt="">
+                        </a>
+                        <h4>Mona Lisa(1503-1506)</h4>
+                        <span>Leonardo Da Vinci(Italian, 1452-1519)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List02.jpg" alt="">
+                        </a>
+                        <h4>Portrait of Adele Bloch-Bauer I (1907)</h4>
+                        <span>Gustav Klimt (Austrian, 1862-1918)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List03.jpg" alt="">
+                        </a>
+                        <h4>Return of the Prodigal Son (1668)</h4>
+                        <span>Rembrandt van Rijn (Dutch, 1606-1669)</span>
+                    </li>
+
+                    
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List04.jpg" alt="">
+                        </a>
+                        <h4>The Bellelli Family (1858 - 1869)</h4>
+                        <span>Edgar Degas (French, 1834-1917)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List05.jpg" alt="">
+                        </a>
+                        <h4>On a Starry Night(1886.06)</h4>
+                        <span>Vincent van Gogh(Dutch, 1853-1890)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List06.jpg" alt="">
+                        </a>
+                        <h4>Self-portrait with grey felt hat (1887)</h4>
+                        <span>Vincent van Gogh(Dutch, 1853-1890)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List07.jpg" alt="">
+                        </a>
+                        <h4>The Angelus (1857-1859)</h4>
+                        <span>Jean-François Millet (French, 1814-1875)</span>
+                    </li>
+
+                    
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List08.jpg" alt="">
+                        </a>
+                        <h4>The Coronation Of Napoleon(1805-1807)</h4>
+                        <span>Jacques Louis David (French, 1748 - 1825)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List09.jpg" alt="">
+                        </a>
+                        <h4>The Dance Class (c. 1873)</h4>
+                        <span>Edgar Degas (French, 1834-1917)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List10.jpg" alt="">
+                        </a>
+                        <h4>In the Conservatory (1879)</h4>
+                        <span>Édouard Manet (French, 1832-1883)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List11.jpg" alt="">
+                        </a>
+                        <h4>The Petite Creuse River (1889)</h4>
+                        <span>Claude Monet (French, 1840-1926)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List12.jpg" alt="">
+                        </a>
+                        <h4>Girl with a Pearl Earring (1665)</h4>
+                        <span>Johannes Vermeer (Dutch, 1632 - 1675)</span>
+                    </li>
+               
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List13.jpg" alt="">
+                        </a>
+                        <h4>Gleaners (1857)</h4>
+                        <span>Jean-François Millet (French, 1814-1875)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List14.jpg" alt="">
+                        </a>
+                        <h4>Liberty Leading the People (1830)</h4>
+                        <span>Eugène Delacroix (French, 1798-1863)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List15.jpg" alt="">
+                        </a>
+                        <h4>Woman with a Parasol Madame Monet and Her Son (1875)</h4>
+                        <span>Claude Monet (French, 1840-1926)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List16.jpg" alt="">
+                        </a>
+                        <h4>Dance at Bougiva(1883)</h4>
+                        <span>Pierre-Auguste Renoir (French, 1841-1919)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List17.jpg" alt="">
+                        </a>
+                        <h4>Wheatfield with Crows (1890)</h4>
+                        <span>Vincent van Gogh(Dutch, 1853-1890)</span>
+                    </li>
+
+                    <li class="grid-item">
+                        <a href="#">
+                            <img src="./img/paintings-img/List18.jpg" alt="">
+                        </a>
+                        <h4>Le Louvre, Matin, Printemps (1902)</h4>
+                        <span>Camille Pissarro (French, 1830-1903)</span>
+                    </li> -->
+                </ul>     
+            </div>
+
+            <div id="pagingArea" class="pageNumber">
+<!--                            <a href="" id="prev_page"  onclick="paging('-1');"><</a>-->
+<!--                            <a href="" onclick="paging(1);">1</a>-->
+<!--                            <a href="" onclick="paging(2);">2</a>-->
+<!--                            <a href="" onclick="paging(3);">3</a>-->
+<!--                            <a href="" onclick="paging(4);">4</a>-->
+<!--                            <a href="" onclick="paging(5);">5</a>-->
+<!--                            <a href="" onclick="paging(6);">6</a>-->
+<!--                            <a href="" onclick="paging(7);">7</a>-->
+<!--                            <a href="" onclick="paging(8);">8</a>-->
+<!--                            <a href="" id="next_page" onclick="paging('+1');">></a>-->
+            </div>
+
+        </div>
+    </main>
+
+    <!-- content3 팝업박스 -->
+    <div class="paintings-Popup1">
+        <!-- <div class="paintings-Popup1-1">
+            <div class="Popup-logo1">
+                <h3 class="Popup-logo-title1">Painting Art List</h3>
+                <img class="Popup-logo-close1 aaa" src="./img/icon/close.svg">
+            </div>
+
+            <ul class="Popupimg1">
+                <li>
+                    <figure>
+                    <img src="./img/paintings-img/List03.jpg" alt="">
+                    </figure>
+
+                    <div class="Popupimg1-text">
+                    <h4>Return of the Prodigal Son (1668)</h4>
+                    <span>Rembrandt van Rijn (Dutch, 1606-1669)</span>
+                    <p>
+                        The Return of the Prodigal Son is an oil painting by Rembrandt,
+                        part of the collection of the Hermitage Museum in Saint Petersburg.
+                        It is one of the last works by the Dutch master, believed to have been
+                        completed within two years of his death in 1669. Depicting the moment the
+                        prodigal son returns to his father in the biblical parable, this work is a
+                        famous work described by art historians. The theme of the work is the story
+                        of Chapter 15 of Luke's Gospel in the New Testament. Rembrandt chose a scene
+                        where human love, forgiveness, and tolerance are well revealed in the plot of
+                        this story. The father gently closes his eyes and caresses his son's shoulder
+                        with a friendly hand, as if trying to suppress the pain and sadness of the past
+                        caused by his son. The figure of the son kneeling in front of his father is dwarf
+                        and shabby. The older brother, who is standing wearing expensive clothes and a fancy
+                        hat, is looking at his father and his lost brother with a stern expression. The father's
+                        benevolent face, white beard, and bloodless hands, highlighted by bright light, remind us
+                        of God's love for humans. The son, dressed in rags and with sloppy hair that looks like it
+                        has been ripped off, is a sinful human figure. The people depicted darkly behind symbolize envy,
+                        heartlessness, and sin. Rembrandt, a great religious painter in history, tried to interpret the 
+                        meaning of the Bible with a deep understanding of the evil heart inside man and the pain that follows.
+                    </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+             -->
+    </div>
+</body>
+</html>
