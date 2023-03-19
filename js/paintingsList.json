@@ -1,0 +1,529 @@
+{
+"data" :
+    [
+        {
+            "id": 1,
+            "title": "Mona Lisa(1503-1506)",
+            "name": "Leonardo Da Vinci(Italian, 1452-1519)",
+            "text": "The Mona Lisa is a portrait painted by Leonardo da Vinci during the Renaissance in the 16th century and is currently on display at the Louvre Museum in Paris, France. Mona is an Italian honorific given before the name of a married woman, and Liza is the name of the woman who was the model for the portrait. In other words, it means Mrs. Liza in Korean. In Italian and French, it is called La Gioconda, which means Giocondo's wife, or the merry woman, or the laughing woman. This painting is a pioneering work in many ways. It uses an oil painting technique, which was new at the time, and uses a sfumato technique to soften the lines to give a misty effect. The composition takes the form of a pyramid, which was the most basic portrait composition at the time. In addition, the method of arranging the figure higher than the background is a method commonly used by painters today, but it was rare in the Renaissance.",
+            "url": "./img/paintings-img/List01.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Portrait of Adele Bloch-Bauer I (1907)",
+            "name": "Gustav Klimt (Austrian, 1862-1918)",
+            "text": "Portrait of Adele Bloch-Bauer I is a painting by Gustav Klimt completed between 1903 and 1907.Also, the portrait is the final and most complete representative work of Klimt's golden age. This is the first of two paintings by Adele painted by Klimt.This painting is also called Lady in Gold. As such, gold was abundantly used as a material. It is also the work that used the most gold among Klimt's portraits. The model in the portrait is Adele, the wife of wealthy Austrian businessman Ferdinand Bloch. Bloch wanted to show off his wealth, social status, and artistic taste through portraits of his wife. Klimt, who penetrated Bloch's heart, decorated Adele with a golden decoration technique he had invented to satisfy the customer's needs. The golden decoration technique refers to a luxuriously decorated expression technique combining gold and various patterns.There are two main effects of the golden decoration technique. First, gold is a symbol of wealth, power, beauty, and immortality, and is an object of worship and homage by humans. Medieval painters used pure gold powder instead of paint to evoke awe when they painted Christ and the Virgin Mary. Klimt used precious and luxurious gold abundantly to elevate Adele, a real woman, to an object of worship in an unreal world.",
+            "url": "./img/paintings-img/List02.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Return of the Prodigal Son (1668)",
+            "name": "Rembrandt van Rijn (Dutch, 1606-1669)",
+            "text": "The Return of the Prodigal Son is an oil painting by Rembrandt, part of the collection of the Hermitage Museum in Saint Petersburg. It is one of the last works by the Dutch master, believed to have been completed within two years of his death in 1669. Depicting the moment the prodigal son returns to his father in the biblical parable, this work is a famous work described by art historians. The theme of the work is the story of Chapter 15 of Luke's Gospel in the New Testament. Rembrandt chose a scene where human love, forgiveness, and tolerance are well revealed in the plot of this story. The father gently closes his eyes and caresses his son's shoulder with a friendly hand, as if trying to suppress the pain and sadness of the past caused by his son. The figure of the son kneeling in front of his father is dwarf and shabby. The older brother, who is standing wearing expensive clothes and a fancy hat, is looking at his father and his lost brother with a stern expression. The father's benevolent face, white beard, and bloodless hands, highlighted by bright light, remind us of God's love for humans. The son, dressed in rags and with sloppy hair that looks like it has been ripped off, is a sinful human figure. The people depicted darkly behind symbolize envy, heartlessness, and sin. Rembrandt, a great religious painter in history, tried to interpret the meaning of the Bible with a deep understanding of the evil heart inside man and the pain that follows.",
+            "url": "./img/paintings-img/List03.jpg"
+        },
+        {
+            "id": 4,
+            "title": "The Bellelli Family (1858 - 1869)",
+            "name": "Edgar Degas (French, 1834-1917)",
+            "text": "Edgar Degas (1834-1917) traveled to Italy from 1856 to 1859 to study ancient and Renaissance art. While traveling to various cities such as Naples and Rome, he stayed in Florence for several months at the invitation of his aunt Laure Bellelli, who was married to Italian politician Gennaro Bellelli, and sketched these families. He returned to Korea to complete his family portrait. In this painting, there are traces of Flemish portraits like Van Dyck's painting, but Degas added his unique 'still picture' technique to the painting. All the characters' eyes are directed in different directions, and only one is looking at the viewer. Ms. Belelli has her back turned to the audience, though slightly twisted, a girl is sitting cross-legged, a small dog with only her buttocks visible, and the rest have disappeared out of the frame. This painting captures a fleeting moment, but it is very It is also a true family portrait. All family members are isolated in their own space. Laure, who has just lost his father, is grieving (his father's portrait hangs on the wall), and Mr. Bellelli, an Italian patriot living in exile in Florence, is depicted in profile. A fairly limited dark color scheme, along with paintings, mirrors, reflections and porches, enhances the cramped atmosphere.",
+            "url": "./img/paintings-img/List04.jpg"
+        },
+
+        {
+            "id": 5,
+            "title": "On a Starry Night(1886.06)",
+            "name": "Vincent van Gogh(Dutch, 1853-1890)",
+            "text": "It is Vincent van Gogh's most widely known work and was painted by Vincent van Gogh while suffering from mental illness. In 1889, while in a mental hospital in Saint-Rémy, Van Gogh recalled the suffering caused by mental illness and described it as a whirlpool in the painting. It was painted while he was in a nursing home in Saint-Remy after an argument with Paul Gauguin and cutting off his ear. He painted the night scenery looking out of the hospital room by combining memory and imagination, which embodies Van Gogh's inner and subjective expression of nature. The sky, drawn with a continuous and dynamic touch, is connected to Cyprus with thick, winding brushwork, and the village below shows a calm and serene state in contrast. The church steeple is reminiscent of his hometown, the Netherlands. He painted the night scenery looking out of the hospital room by combining it with his imagination, which embodies Van Gogh's inner and subjective expression of nature. The cypress, which stretches vertically high and connects the earth and the sky, is traditionally associated with graves and mourning, but Van Gogh did not see hell as ominous.",
+            "url": "./img/paintings-img/List05.jpg"
+        },
+
+        {
+            "id": 6,
+            "title": "Self-portrait with grey felt hat (1887)",
+            "name": "Vincent van Gogh(Dutch, 1853-1890)",
+            "text": "This work is one of Vincent van Gogh's many self-portraits. In this painting, Van Gogh's unique strong brushstrokes are well revealed and the contrast of colors is achieved by using various primary colors. In particular, this work shows a lot of blue color as a whole, and this blue seems to show Gogh's expression and his depression in the painting. It seems that Van Gogh expressed his anguished inner self through self-portraits. And overall, very bright colors were used a lot. The face, which is an important part of the self-portrait, is a combination of white, pink, and yellow, and green is used intermittently to make it look very splendid. The eyes give a strong impression by contrasting the complementary colors of green and red. In 1978, an incident occurred in which a viewer cut the piece into an X shape with a knife. Fortunately, it has been well restored, so if you look at it from now on, you will not know that it is a damaged work, but if you look up from the bottom, you can see the X mark. Through this work, it can be seen that a strong color tone was explored. Exaggerated colors and brush strokes may make the portrait look like an Indian, but this attempt is intended to see how far the colors can be utilized",
+            "url": "./img/paintings-img/List06.jpg"
+        },
+
+        {
+            "id": 7,
+            "title": "The Angelus (1857-1859)",
+            "name": "Jean-François Millet (French, 1814-1875)",
+            "text":"Jean-François Millet is a painter who has been evaluated as the most French-style painter who portrayed a farmer in France. One of Millet's representative works, Man Bell, is a painting depicting a scene where a man and a woman pray at dusk. The angelic prayer reminds Mary of the Annunciation and is prayed while standing. In 1865, Millet revealed that the painting was about childhood memories, saying, The Millennium Bell is a painting that was painted while thinking about how old grandmothers stopped working in the fields when the bell rang and did not forget to pray for the angelic prayers for the poor people who died. there is. They are digging potatoes, and farm tools such as rakes, baskets, sacks, and wheelbarrows can be seen nearby. The site, which occupies two-thirds of the screen, creates a stable composition and emphasizes the close relationship between nature and humans. In the foreground, there is a pair of farmers standing and praying in the middle of a vast and desolate field, and their calm and solemn atmosphere is even monumental. Their faces are dark, so it is difficult to see them in detail, but the light on the screen emphasizes their gestures and attitudes. For Millet, the countryside contrasted with the city, and he emphasized the permanence and innocence of the countryside and nature in several works dealing with farmers.",
+            "url": "./img/paintings-img/List07.jpg"
+        },
+
+        {
+            "id": 8,
+            "title": "The Coronation Of Napoleon(1805-1807)",
+            "name": "Jacques Louis David (French, 1748 - 1825)",
+            "text":"The Coronation of Napoleon I (Le Sacre de Napoléon) is a painting by Jacques-Louis David between 1805 and 1807. Collection of the Louvre Museum. Napoleon Bonaparte ordered four masterpieces to commemorate the glory of the empire. The ceremony took place in December 1804 at Notre Dame Cathedral in Paris, and was invited by Pope Pius VII from Rome. The Emperor, wearing a laurel crown, is about to give the crown to Empress Josephine de Beauharnais, who has come forward and is kneeling. The mother of the emperor is drawn on a high place deep in the middle, and generals and high officials are lined up one level lower, and numerous figures lined up on the left and right are also drawn as accurate portraits.",
+            "url": "./img/paintings-img/List08.jpg"
+        },
+
+        {
+            "id": 9,
+            "title": "The Dance Class (c. 1873)",
+            "name": "Edgar Degas (French, 1834-1917)",
+            "text":"The style of Edgar Degas (1834-1917) was established in the early 1870s, and the dance drawings often done at this time—viewed through a keyhole from behind the scenes—were radical for the time. Degas shared a passion for modern subjects with the Impressionists. Degas' paintings depicting the dramatic world of ballet and theater have a certain feel-good stimuli. However, Degas, who was fascinated by the human form, was also an outstanding draftsman who admired the paintings of the old masters and Ingres. His interest in the human figure is evident in the painting above. Another painting of the same scene, Dance Class, depicts dancers waiting to be evaluated by ballet teacher Jules Perrault. Degas patiently prepared this painting by drawing countless numbers of dancers posing in his studio. His lively brushwork, light, and bright colors were typical of the Impressionists. The use of color is partly influenced by Japanese prints, and the dramatic 'cut-off' composition - in which the subject is cut out of the frame of the picture - is also taken from Japanese prints, applied not only to this painting but to all others. Degas was greatly influenced by photography and the subversion of traditional compositional methods.",
+            "url": "./img/paintings-img/List09.jpg"
+        },
+
+        {
+            "id": 10,
+            "title": "In the Conservatory (1879)",
+            "name": "JÉdouard Manet (French, 1832-1883)",
+            "text":"The Jung is a greenhouse at 70 Rue d'Amsterdam in Paris, then owned by the painter Georg von Rosen and used by Manet as a studio for nine months in 1878 and 1879. Such a greenhouse may have been more than a greenhouse. French painter Alix-Louise Enault's Consolation depicts the Paris Conservatory as a luxuriously decorated and intimate venue, a secluded interior conducive to personal encounters. At first glance, we see a double portrait of a stylish and attractive couple of any social status. They are Manet's friends and the Giyume couple who ran a clothing store. Their marital status is conveyed by rings, and the proximity of hands is the closest hint of intimacy. The woman becomes the focal point of the portrait, but is more prominently placed and dressed in flashy clothing. The physical separation, the lack of connection with the audience, and the abstract gaze create a sense of separation, a major theme of contemporary criticism of the work. The interaction of the lines formally defines the action. The woman has an upright posture that reverberates against the vertical slats of the bench, while the man leans forward but doesn't break that vertical. A bench continues on the right, reinforcing the level and separation of foreground and background. The diagonal folds of the woman's dress provide some relief from the straightness of the composition.",
+            "url": "./img/paintings-img/List10.jpg"
+        },
+
+        {
+            "id": 11,
+            "title": "The Petite Creuse River (1889)",
+            "name": "Claude Monet (French, 1840-1926)",
+            "text":"Claude Monet began this canvas—one of three of the Petite Creuse—in April 1889 but only returned to it later that spring, by which time the landscape had changed considerably. The oak tree, for example, was sprouting leaves, obscuring the view he had already established. Rather than rework or restart the canvas to depict the current season, Monet hired workers to defoliate the tree so that he could re-create its earlier appearance. Monet spent three months in the remote Creuse valley in central France beginning in early March 1889 after visiting the region for a few days with art critic Gustave Geffroy in February. Despite bouts of poor health and bad weather, he returned to Giverny having painted 24 canvases. These constituted the artist’s first planned and rigorously defined series of paintings.",
+            "url": "./img/paintings-img/List11.jpg"
+        },
+
+        {
+            "id": 12,
+            "title": "Girl with a Pearl Earring (1665)",
+            "name": "Johannes Vermeer (Dutch, 1632 - 1675)",
+            "text":"Girl with a Pearl Earring (Dutch: Meisje met de parel) is a masterpiece by Dutch artist Johannes Vermeer, which, as the name implies, uses the pearl earring she is wearing as the focal point of the painting. It is exhibited at the Mauritshuis in The Hague, and is also called the Mona Lisa of Northern Europe or the Mona Lisa of the Netherlands. It is characterized by Vermeer's unique subtle expression of light, simple but harmonious composition, and vivid colors. The pearl, drawn with two or more brush strokes using the effect of light, shines brightly in the upper left part, while the lower part reflects the white collar and shines softly, giving a clear and transparent feeling. In the picture, a girl with pearl earrings with a turban on her head is turning her head over her left shoulder to look at someone. The big eyes, sensual lips, and unique gaze and expression give the viewer a sense of mystery combined with a sense of secrecy.",
+            "url": "./img/paintings-img/List12.jpg"
+        },
+
+        {
+            "id": 13,
+            "title": "Gleaners (1857)",
+            "name": "Jean-François Millet (French, 1814-1875)",
+            "text":"The Gleaners ( Des glaneuses ) is an oil painting completed in 1857 by Jean-François Millet.It depicts three peasant women gleaning in a wheat field after harvest. The painting is notable for its sympathetic depiction of those who were then the lowest class of rural society. As the title of the painting suggests, the women are showing the act of gleaning from the left in a continuous movement. It is like looking for ears, picking ears, and straightening your waist halfway to put the bunch of ears you just picked up into the pocket made by tying your apron. The figure with the waist bent deeply at more than 90 degrees makes us realize that gleaning is a hard and arduous manual labor accompanied by physical fatigue. If you look at the hands of the women, their crude and rough appearance resembles the rugged earth like the lid of a pot. The color of the hands and the color of the ground are similar as if they were one body. The clear shadows under the bent women and the foreground obscured by light testify to the hardships of life.",
+            "url": "./img/paintings-img/List13.jpg"
+        },
+
+        {
+            "id": 14,
+            "title": "Liberty Leading the People (1830)",
+            "name": "Eugène Delacroix (French, 1798-1863)",
+            "text":"This work was produced between 1827 and 1832, when Eugene Delacroix (1798-1863) produced one masterpiece after another. Celebrating the July Revolution of 1830 that brought Louis-Philippe to power, the painting became a symbol of the spirit of the French Revolution. The painting caused a sensation at the Salon of 1831, and Louis-Philippe bought it to commemorate his accession to the throne. In fact, however, he considered the painting highly provocative and removed it from public view. This painting monumentally combines contemporary events and allegories. Notre Dame Cathedral in the distance and people wearing different clothes according to their class (the scruffy boy on the right symbolizes a commoner) clearly indicate the place and era of the painting. The figure of freedom holding high the tricolor flag dominating the scene aroused people's anger. It is because it shows a messy woman with half-naked clothes stepping over a corpse with strong brush strokes, rather than realizing idealized beauty. This painting showed Delacroix's transition to a softer approach that appeared in his later work. In his later works, we can see colors gradually subtly invading, working next to each other to convey a sense of realism or to express truth. This style of coloring had a profound influence on the Impressionists and Modernists who would come, from Renoir and Seurat to Picasso.",
+            "url": "./img/paintings-img/List14.jpg"
+        },
+
+        {
+            "id": 15,
+            "title": "Woman with a Parasol Madame Monet and Her Son (1875)",
+            "name": "Claude Monet (French, 1840-1926)",
+            "text":"Woman with a Parasol Madame Monet and Her Son, sometimes known as The Stroll, is an 1875 oil canvas painting by Claude Monet. The Impressionist work captures the moments of walking his wife Camille Monet and their son Jean Monet on a windy summer day while living in Argenteuil from 1871 to 1877. Monet's light, natural brushwork creates a riot of color. Madame Monet's veil fluttered in the wind and so did her white dress. The swaying grass of the meadow echoes the green underside of her parasol. She appears to be looking from below with a strong upward perspective against puffy white clouds in a blue sky. The boy, Monet's seven-year-old son, is farther away, hidden behind a rise in the ground and visible only from the waist up, creating a sense of depth. This work is not a formal portrait, but a genre painting depicting a daily family scene. This work was painted outdoors and quickly, perhaps in a few hours. It is Monet's largest work of the 1870s",
+            "url": "./img/paintings-img/List15.jpg"
+        },
+
+        {
+            "id": 16,
+            "title": "Dance at Bougiva(1883)",
+            "name": "Pierre-Auguste Renoir (French, 1841-1919)",
+            "text":"The painting depicts two dancers surrounded by a lively scene looking for a cafe. The actual subject matter of the painting is debatable, but it is well known for conveying a sense of motion, making the viewer feel that they are actually there. Renoir mostly used pastel colors, but included more vibrant shades in the caps of both subjects. The larger group of paintings to which this painting belongs is described as Renoir's last foray into Impressionism and shows the development of his artistic ability from his earlier works. The painting has been described as one of Renoir's first returns to a more classical painting style learned while copying paintings from the Louvre, while retaining the lighter palette of his fellow Impressionists. Bougival's dancing differed from other dance paintings in that little sketching and planning was done before it was painted. [6] The two figures are drawn in pastel tones, and the man's dark blue suit and the woman's light pink dress contrast. ",
+            "url": "./img/paintings-img/List16.jpg"
+        },
+
+        {
+            "id": 17,
+            "title": "Wheatfield with Crows (1890)",
+            "name": "Vincent van Gogh(Dutch, 1853-1890)",
+            "text":"Wheatfield with Crows is one of Van Gogh's last works. This painting was painted in Auvers in July 1890, shortly before he committed suicide. According to some studies, the field in the painting was actually where Van Gogh committed suicide with a pistol. Van Gogh left a brief account of this painting. Back there, I started painting. It felt like the brush was about to slip out of my hand. ‧‧‧ I expressed sadness and deep loneliness without difficulty. The despair felt by the artist is fully reflected in this painting. The elements of nature he admired with joy are now threatening. Overripe wheat no longer rustles softly, but throbs like a raging flame. The sky has become dark, and huge flocks of crows, like paint stains, are rushing towards the viewer as if foretelling death. The composition of this painting is also unstable. The composition does not converge toward the horizon, but pours down into the foreground by three rough roads. The two roads on either side are disappearing off the canvas, while the one in the middle is abruptly cut off. Like Van Gogh, viewers also feel isolated. Van Gogh painted at an astonishing pace, completing one or two paintings a day in his later years. He worked mainly in the hottest afternoon, so he sometimes finds the cause of his illness in sunstroke. This madness is evident in his last work. Van Gogh applied the paint very thickly, without smoothing the surface of the painting or mixing the paints carefully. This intense feeling and overflowing energy is where it comes from.",
+            "url": "./img/paintings-img/List17.jpg"
+        },
+
+        {
+            "id": 18,
+            "title": "Le Louvre, Matin, Printemps (1902)",
+            "name": "Camille Pissarro (French, 1830-1903)",
+            "text":"Camille Pissarro was a Danish-French Impressionist and Neo-Impressionist painter, born on the island of St. Thomas (now the US Virgin Islands, but then the Danish West Indies). His importance lies in his contributions to Impressionism and Post-Impressionism. Pissarro studied under great pioneers including Gustave Courbet and Jean-Baptiste-Camille Corot. He later studied and worked with Georges Seurat and Paul Signac when he began his Neo-Impressionist style at the age of 54. In 1873 he helped found a collective society of 15 would-be artists, becoming a pivotal figure in holding the group together and encouraging other members. Art historian John Levald called Pissarro the dean of the Impressionist painters, not only because he was the eldest of the group, but also because of his wisdom and balanced, kind and warm personality. Paul Cézanne was a father to me. He was a seeker of advice, said to be a bit like the Good Lord, and was one of Paul Gauguin's teachers. Pierre-Auguste Renoir has referred to his work as revolutionary through its artistic depiction of ordinary people, as Pissarro insisted on painting individuals in natural settings, devoid of artificiality or grandeur.",
+            "url": "./img/paintings-img/List18.jpg"
+        },
+
+        {
+            "id": 19,
+            "title": "Las meninas (1656)",
+            "name": "Diego Velázquez (Spanish, 1599-1660)",
+            "text":"Las Meninas has a meaning that is immediately obvious to any viewer. A group portrait of identifiable figures set in specific locations and performing understandable actions. The aesthetic value of painting is also clear. Composition combines unity and diversity. Incredibly beautiful details are split across the screen. And finally, in that it successfully achieved the representation of life beyond the transmission of resemblance, it took a decisive step on the path of fantasy, which was one of the goals of European painting in the early modern period. Or animation. But, as is the habit of Velázquez, this scene in which the dauphin and court servants stop their action upon the arrival of the king and queen belongs to different fields of experience, and is one of the masterpieces of Western art that has been subject to the most diverse and varied interpretations. For example, one study focused on the infanta's royal status, thus giving the whole picture a political content. However, there are also important references to the art-historical nature expressed through the artist's own existence and the picture hanging on the back wall, and by including a mirror, this work becomes a reflection on the act of seeing and doing. It forces the viewer to reflect on the laws of representation, the limits between painting and reality, and their own role within the painting.",
+            "url": "./img/paintings-img/List19.jpg"
+        },
+
+        {
+            "id": 20,
+            "title": "The Sleeping Gypsy (1897)",
+            "name": "Henri Rousseau (French, 1844-1910)",
+            "text":"The Sleeping Gypsy is created by Henri Rousseau at 1897. With a mysterious poetry, the lion visits the gypsy woman and her mandolin in this masterful composition that somehow employs hard lines and flattish perspectives to great advantage. In The Sleeping Gypsy, Rousseau portrays an African gypsy in a desert wearing an Oriental costume. She lies beside an Italian stringed instrument and jar of water. These items each have significant importance to the cultures in which they belong. The Oriental frock and mandolin are all customary to their respective Asian and Italian cultures. However, Rousseau decides to mix them all together in his own painting. Rousseau was largely a self-taught painter. Although he had ambitions of entering the academy, this was never realized. But the sharp colors, fantastic imagery, and precise outlines in his work derived from the style and subject matter of popular print culturestruck a chord with a younger generation of avant-garde painters.",
+            "url": "./img/paintings-img/List20.jpg"
+        },
+
+        {
+            "id": 21,
+            "title": "Girl with a Mandolin (1910)",
+            "name": "Pablo Ruiz Picasso(Spanish, 1881-1937)",
+            "text":"In 1910 Picasso and Fernande Olivier spent a summer vacation in Cadaques, and this was where Woman with Mandolin originated. Having emerged from an Early Cubist phase which seemed, in part, expressive, Picasso was now in the throes of Analytical Cubism, a period during which he invested surface ornament with intrinsic value. In this picture, the characteristic fragmentation of form is carried to almost unrecognizable lengths. Only the mandolin is comparatively easy to identify in the lower reaches of the composition.' Both the outlines of the figure and its internal drawing have been broken down into interpenetrative geometrical elements. The coloration is dominated by brown tones paling to beige. Blue-grey accents, often directly juxtaposed with dark, structural lines, imbue the painting with facet-like plasticity. Despite the considerable problems of interpretation which this picture presents and would present in even greater measure were it not for the title, Girl with Mandolin is by no means totally devoid of realism. Picasso was concerned, not with the mimetic reproduction of a woman holding a musical instrument, but with the objective nature of his subject - hence, for all the painting's tendencies toward formal dissolution, its unmistakable retention of plasticity. ",
+            "url": "./img/paintings-img/List21.jpg"
+        },
+
+        {
+            "id": 22,
+            "title": "Strolling along the Seashore (1909)",
+            "name": "Joaquín Sorolla(Spanish, 1863-1923)",
+            "text":"Joaquin Sorolla was a Spanish painter whose style was a variant of Impressionism. His best works, painted outdoors, vividly depict Valencia's sunny coast. He is known for his skillful rendering of people and landscapes in the bright sunshine of his country and under the sunlit waters. This picture was no different. Painted on the beach in Valencia in the summer of 1909. Water and sandy beaches, depicted in long brush strokes in blue, purple, and turquoise, become an abstract backdrop. The shot appears to be taken from a photo frame common in Sorolla's work. The horizontal lines are removed and Clothilde's hat is cut off. What we see here is a perfect example of the iconographic genre of the graceful promenade with well-dressed bourgeois figures walking along the beach. Sorolla, like the French Impressionists, mixed this white with many other colors. So, shades of blue, yellow, lilac or orange are light and shadow effects in the form of white. In bright white, the figures stand out clearly from the rest of the image. Light characterizes the early evening of a Mediterranean summer day. The already setting sun emerges from the direction of the viewer on either side of the women, who cast long shadows looming on the beach behind them. This play of lighting effects under the southern sun is typical of Luminismo Valenciano. Spanish Impressionism is a special form of Neo-Impressionism, the main representative of which was Joaquín Sorolla. ",
+            "url": "./img/paintings-img/List22.jpg"
+        },
+
+        {
+            "id": 23,
+            "title": "The Jewish Bride (c.1665-c.1669)",
+            "name": "Rembrandt van Rijn(Dutch, 1606-1669)",
+            "text":"The Jewish Bride is a painting by Rembrandt, painted around 1665-1669. The painting gained its current name in the early 19th century, when an Amsterdam art collector identified the subject as that of a Jewish father bestowing a necklace upon his daughter on her wedding day. This interpretation is no longer accepted, and the identity of the couple is uncertain. The ambiguity is heightened by the lack of anecdotal context, leaving only the central universal theme, that of a couple joined in love. Speculative suggestions as to the couple's identity have ranged from Rembrandt's son Titus and his bride, or Amsterdam poet Miguel de Barrios and his wife. Also considered are several couples from the Old Testament, including Abraham and Sarah, Boaz and Ruth, or Isaac and Rebekah, which is supported by a drawing by the artist several years prior. While technical evidence suggests that Rembrandt initially envisioned a larger and more elaborate composition, the placement of his signature at lower left indicates that its current dimensions are not significantly different from those at the time of its completion. According to Rembrandt biographer Christopher White, the completed composition is one of the greatest expressions of the tender fusion of spiritual and physical love in the history of painting.",
+            "url": "./img/paintings-img/List23.jpg"
+        },
+
+        {
+            "id": 24,
+            "title": "Ia Orana Maria (1891)",
+            "name": "Paul Gauguin (French, 1848-1903)",
+            "text":"This painting is known to the public under the title of The Jewish Bride, but the title at the time of production is unknown. A catalog from the Rijksmuseum in Amsterdam describes it as 'a couple as an Old Testament figure, known as a Jewish priest'. This explanation implies that there is disagreement as to whether the painting should be viewed as a mere portrait of two people, a depiction of a biblical figure, a religious painting, or both. However, the reason why this painting cannot be seen as a mere portrait is because of the pious and solemn atmosphere that this painting exudes, as well as the ambiguity of time and place. This has led to the view that the painting is based on a biblical story.There is also a view that the man and woman in this picture are Isaac and Rebekah from Genesis 26. There is one drawing in New York that has been interpreted to be of Isaac and Rebekah. It can be seen that there is a clear relationship between the drawing and this painting in terms of the background and the position of the figure (however, the figure of King Abimelech, which can be seen in the upper right of the drawing, is not visible in this painting). X-ray examination revealed that the two standing figures were initially seated, as in the drawing. On the other hand, this man and woman are also seen as Jacob and Rachel in Genesis 29.  ",
+            "url": "./img/paintings-img/List24.jpg"
+        },
+
+        {
+            "id": 25,
+            "title": "Ophelia (1851-1852)",
+            "name": "John Everett Millais(England 1829-1896)",
+            "text":"Ophelia, a work by John Everett Millais (1829-1896), depicts a scene in which Ophelia commits suicide by throwing herself into a river after her father is murdered by her lover Hamlet. This work depicting a scene from Shakespeare's play Hamlet, in which a young and beautiful woman is dying as if lying on a river with flowers in her hands, is considered one of the masterpieces that best reveal the spirit of the Pre-Raphaelites. Pre-Raphaelite painters got a lot of inspiration from Shakespeare's literature, especially Ophelia's tragic and romantic story. Millay portrayed Ophelia, the heroine of tragic love, in a neat and beautiful, dramatic and sensual way. For this work, Millay stayed for four months by the river Hogsmill near Surrey, England, and painted the background of the painting. Dozens of different plants and flowers are carefully described here, each with symbolic meaning. The willow tree appears in the part depicting the river in Shakespeare's original work, but it is also because of the symbol of 'abandoned love'. The nettles growing in the meantime mean suffering, daisies imply innocence, pansies imply futile love, and violets imply loyalty. The red poppy, which symbolizes death, is particularly emphasized. Also, the tree branch on the right side of the picture is expressed in the shape of a skeleton.",
+            "url": "./img/paintings-img/List25.jpg"
+        },
+
+        {
+            "id": 26,
+            "title": "La Coronación De La Virgen(C.1635)",
+            "name": "Diego Velázquez (Spanish, 1599-1660)",
+            "text":"Velázquez's Coronation of the Virgin is exceptional for being a rare religious work by an artist better known for his portraits and for its air of naturalness and simplicity not found in the work of other Baroque religious painters. Its composition is based on an inverted triangle and is reminiscent of well-balanced, harmonious lines and a heart (both in color and shape). The main figure is the Virgin Mary, humble and pious, with an emotional expression, downturned eyes, straight nose and crooked lips. The meaning that the inverted triangle represents the heart is reinforced and Mary points to her heart, evoking reverence in the viewer. To the viewer's right is God the Father, represented as a majestic old man, and to the left is the long-haired figure of Jesus Christ. Together they hold Mary's crown above her head. In the center, the Holy Spirit is represented in the form of a white dove. The heads and doves of the two figures are both level with the triangle's base line, representing equality within the trinity. Also noteworthy are the cherubs around the Virgin at the bottom of the painting. It rivals the quality of paintings by Murillo, famous for his cherubic-themed works. The colors Velázquez uses are blue and purple. He also used carmine (particularly Venetian carmine) instead of the traditional red, following the advice of his teacher Pacheco, as documented in his book Arte de la Pintura.",
+            "url": "./img/paintings-img/List26.jpg"
+        },
+
+        {
+            "id": 27,
+            "title": "Infanta Margarita Teresa in a Blue Dress(1659)",
+            "name": "Diego Velázquez (Spanish, 1599-1660)",
+            "text":"Princess Margarita in a blue dress was painted by Spanish court painter Diego Velàzquez and shows the princess when she was approximately eight years old. In this painting, the portrait of the Spanish royal family from the 16th century is closely followed in the composition of objects and backgrounds that indicate the character's posture or status, while Velázquez's unique style and innovative attempts are well fused. Princess Margarita in the picture is wearing a blue silk dress edged with a voluminous silver belt, following a design that was very popular in Spain from the 1640s.The head and chest are also decorated with colorful ornaments of the same blue color as the clothes. In her left hand, she holds a large muff cylindrical sleeve for a haired woman, which she may have intentionally included in the picture as it was a gift from the Habsburgs. These luxurious clothes and accessories were effectively reproduced through the colorful colors and unique vivid textures common to Velázquez's later works. This was possible because he used loose brushstrokes like those of impressionist painters rather than meticulously drawing. The work drawn in this way looks like a combination of color dots from a close distance, but shows a perfect shape from a distance. The characteristics of this unfinished technique are well revealed in the right hand and the surface of the clothes. On the other hand, the relatively detailed face of the princess is charming and has dignity and formality appropriate to her status, but at the same time reveals childlike innocence, liveliness, liveliness, and subtle capture of emotions. ",
+            "url": "./img/paintings-img/List27.jpg"
+        },
+
+        {
+            "id": 28,
+            "title": "Luncheon of the Boating Party(1881)",
+            "name": "Pierre-Auguste Renoir (French, 1841-1919)",
+            "text":"The painting, combining figures, still-life, and landscape in one work, depicts a group of Renoir's friends relaxing on a balcony at the Maison Fournaise restaurant along the Seine river in Chatou, France. The painter and art patron, Gustave Caillebotte, is seated in the lower right. Renoir's future wife, Aline Charigot, is in the foreground playing with a small dog, an affenpinscher; she replaced an earlier woman who sat for the painting but with whom Renoir became annoyed. On the table is fruit and wine. The diagonal of the railing serves to demarcate the two halves of the composition, one densely packed with figures, the other all but empty, save for the two figures of the proprietor's daughter Louise-Alphonsine Fournaise and her brother, Alphonse Fournaise, Jr, which are made prominent by this contrast. In this painting Renoir has captured a great deal of light. The main focus of light is coming from the large opening in the balcony, beside the large singleted man in the hat. The singlets of both men in the foreground and the table cloth all work together to reflect this light and send it through the whole composition. The painting is thought to show the influence of Italian Renaissance painter Paolo Veronese on Renoir's style, in particular, The Wedding Feast at Cana (1563), one of Renoir's favorite Veronese paintings at the Louvre, which depicts a similar banquet theme to that of the Luncheon.",
+            "url": "./img/paintings-img/List28.jpg"
+        },
+
+        {
+            "id": 29,
+            "title": "The Raft of the Medusa (1818)",
+            "name": "Théodore Géricault (French, 1791-1824)",
+            "text":"The Raft of the Medusa is an 1819 painting by Theodore Géricault. Collection of the Louvre Museum. This work is based on an event that actually happened at the time. The composition avoids flat development at the time and is a pyramidal structure, but the focus of hope and emotion is wonderfully and powerfully drawn. This masterpiece depicts the events of that time. In 1816, the categorical battleship Medusa set off with about 400 men and officers on its way to the colonies, but it ran aground. Abandoning the boat, the crew boarded a lifeboat, but a large raft was built for the remaining 149 people. But out in the ocean, the rope broke, and a bloody battle broke out on the raft for water and food. When the rescue boat appeared, there were 15 survivors, all of them dying. The report stirred Serron, and Jericho does a good job of describing the excited moment when the rescue boat showed up. Jericho went into production and visited all survivors, made a model of the raft in the same shape, brought the corpse to the studio, examined its rigid state, and visited a hospital to study the dying human body. Posing for the sake of it is also a good story.",
+            "url": "./img/paintings-img/List29.jpg"
+        },
+
+        {
+            "id": 30,
+            "title": "Skaters in the Bois de Boulogne(1868)",
+            "name": "Pierre-Auguste Renoir (French, 1841-1919)",
+            "text":"On a cold winter day in January 1868, Renoir, then 26 years old, painted skaters outdoors in Bois de Bois de Bois de Bois de Bois de Bois de Paris in Paris. Ice skating in rivers and creeks across the Seine. It is one of the few winter landscapes that Renoir completed, aside from a few minor studies, because he hated cold weather. At the time of painting, the park itself was relatively new, and construction began in 1852 under a public works program led by Georges-Eugène Haussmann at the direction of Napoleon III. The Bois de Boulogne was completed in 1858 as Haussmann renovated Paris. The scene is thought to have been painted near Lac pour le Patinage, an artificial lake. Renoir chose the park because he preferred the painting crowd. The painting is in the style of Pochard and has the quality of an unfinished sketch, but the brushwork is bold and the composition is fully realized. The scene uses an elevated perspective to represent the western portion of the park. The subject matter is reminiscent of old Dutch ice skating landscapes popularized by painters such as Hendrick Avercamp (1585–1634). Several dogs can be seen in the work, which reflects Renoir's thematic interest in the life of the Parisian bourgeoisie. The motif of social leisure depicted in the work would define Renoir's subsequent work.",
+            "url": "./img/paintings-img/List30.jpg"
+        },
+
+        {
+            "id": 31,
+            "title": "The Card Players(1892~1896)",
+            "name": "Paul Cézanne (French, 1839-1906)",
+            "text":"Between 1890 and 1896, Paul Cézanne (1839-1906) painted five works on the subject of 'card players'. This work, which is housed in the Musée d'Orsay in Paris, is the most complete of them all. It presents a dramatic confrontation between two people immersed in playing cards like a scene in a play in which time has stopped. A long wine bottle is placed vertically in the middle of the table, and the screen is divided into two evenly with this as the axis. The two men on the screen look very serious and determined as if they are facing the most important moment of choice and execution in their lives. Cézanne gave a sense of unity to the screen with ocher and brown tones, and depicted the tense confrontation between the two characters through a solid composition and symmetrical composition. The hands of the two people gathered in the center of the screen and the cards they hold, the arms symmetrical to each other, the curves of the back, and the two hats reveal a perfect sense of balance, as if looking in a mirror. The figure on the left side of the screen is painted a bit darker, but the pipe in his mouth, the collar of his shirt, and the distinct whiteness of the two cards in his hand give a glimpse of his side that carefully considered even the contrast.",
+            "url": "./img/paintings-img/List31.jpg"
+        },
+
+        {
+            "id": 32,
+            "title": "Café Terrace at Night (1888)",
+            "name": "Vincent van Gogh(Dutch, 1853-1890)",
+            "text":"One of the many characteristics of Van Gogh's paintings is that colors do not depend on form or composition, but directly convey the individual's emotions or the beauty of the subject. He used colors according to his subjectivity to express his emotions strongly rather than to reproduce exactly what was in front of his eyes. Even in this work, the night scenery is expressed without using black at all, and the cafe's canopy is painted in yellow, close to lemon color. Also, the golden light from the gas lamps on the terrace dyes people and the surroundings yellow like a protective wall, and the façade of the cafe along the brick floor reflects the blue light from the gas lamps. The strong color contrast between dark blue and bright yellow gives us a glimpse of his philosophy, which placed the most importance on subjective emotions felt in the physical world.Furthermore, when describing the houses on the street, the fact that they are not bound by the laws of perspective, that the form is exaggerated rather than the actual one, and the way of expressing the characters as if they were drawn hastily with thick paint are also noticeable. From this, it can be assumed that Van Gogh sought new rules of painting that could most appropriately reveal the things he loved and his passionate inner world through independent use of colors and individual forms. This shows that he was aware that painting could be a means of expressing individual thoughts or psychological states more freely, escaping from the pressure of depicting illusory spaces, which was considered important by earlier painters. ",
+            "url": "./img/paintings-img/List32.jpg"
+        },
+        
+        {
+            "id": 33,
+            "title": "The Scream (1893)",
+            "name": "Edvard Munch (Norwegian, 1863 - 1944)",
+            "text":"It is an 1893 work by the Norwegian expressionist painter Munch. In a drawing work on the same theme, Munch added the following writing. I went for a walk with two friends. The sun poured down. Suddenly, the sky turned red like blood and I felt a ray of melancholy. My friends were walking in front of me, and I was the only one standing there trembling with fear. It was as if a mighty, infinite scream was going through Mother Nature. The male figure shown in the work Despair was expressed as a ghost-like human in this painting. Trembling, this figure with both hands on his face is located at the bottom of the screen and is facing the audience. From his skeletal face, a terrified scream and a tearing scream flowed out. The composition of the background screen is boldly treated with oblique lines, and the dynamic processing of the face line and the color matching to the three primary colors of red, yellow, and blue show a more intense effect in terms of formality. The red cloud creates a terrifying screen effect as if it is on fire and expresses a hopeless psychological state.",
+            "url": "./img/paintings-img/List33.jpg"
+        },
+
+        {
+            "id": 34,
+            "title": "Vertumnus (1591)",
+            "name": "Giuseppe Arcimboldo (Italian, 1526 - 1593)",
+            "text":"During Rudolf II's 29-year reign of Hungary and Bohemia, the arts were celebrated. His time as Holy Roman Emperor, now named Rudolphine Prague, ushered in an unprecedented era of art appreciation, promoted by Rudolf II himself. This acceptance of the arts allowed Arcimboldo to thrive at his court. This was especially true for the unprecedented and unique style for which Arcimboldo became known. My initial impression of Arcimboldo's Vertumnus is that it is a joke due to the quirky nature of the piece. Vertumnus, however, is not only presented as a joke. Rather, the use of fruits and vegetables demonstrates the transformation of world power for the reign of Rudolf II. It was to give. The imperial patrons behind Vertumnus, certain fruit selections that serve as power propaganda, and copies of Vertumnus distributed throughout Europe all suggest its role as a political allegory. The portrait of Rudolf II itself encapsulated the perfect balance and harmony with nature, art and science, which Rudolf II believed he represented during his reign. These portraits express the Renaissance spirit's fascination with the mystery, the enigma, and the eccentric. The search for unique and captivating works of art was a common trend among the Renaissance elite, giving Arcimboldo the perfect opportunity to captivate viewers with his unique style. Although Arcimboldo's traditional religious subjects were later forgotten, his portraits of human heads composed of objects were greatly admired by his contemporaries.",
+            "url": "./img/paintings-img/List34.jpg"
+        },
+
+        {
+            "id": 35,
+            "title": "Coquelicots, environs d’Argenteuil(1873)",
+            "name": "Claude Monet (French, 1840-1926)",
+            "text":"In Korea, poppies are reminiscent of the unparalleled beauty of King Hyeonjong of the Tang Dynasty, but in the West, they have long been considered a symbol of sleep, peace, and death. After World War I, it became a symbol flower to commemorate the victims of war. However, for the impressionist painter Claude Monet, it was a flower that shared the happiest moment and a model for a masterpiece that left a mark in art history. The upper part of the horizontally divided screen is occupied by a sky full of white clouds, and the lower part is occupied by a field of red poppies. The woman with a parasol and a child painted in the foreground are the artist's wife, Camille, and their son, Jean. They also appear on top of hills that can be seen in the distance. The boundaries of the horizon are blurry, and details of the characters are boldly omitted. The poppies were also expressed by making dots with quick brush strokes. It would have looked like an unfinished painting or study to people at the time. Monet had to endure all sorts of insults, but looking at it now, it is an innovative painting that foreshadows abstract art. ",
+            "url": "./img/paintings-img/List35.jpg"
+        },
+
+        {
+            "id": 36,
+            "title": "Still Life With Basket of Apples(c 1893)",
+            "name": "Paul Cézanne (French, 1839-1906)",
+            "text":"The Basket of Apples is an oil on canvas painting depicting a table holding a bottle and a basket full of apples. The canvas measures 65 cm x 80 cm and is signed P.Cézanne in the lower left corner. This painting is famous for its detached perspective. It has been described as a balanced composition due to its disproportionate parts. The tilted bottle, the tilted basket, and the reduced lines of the cookies mesh with the lines of the tablecloth. The table depicted in the picture creates a shape that cannot be tilted without a right angle. The basket of apples also tilts forward and appears to be held in place by the bottle and a folded tablecloth. In this painting, Cézanne did not intend to depict the subject in a realistic manner. He used heavy brushwork to create greater density than would be seen in real life. He once described art as a harmony parallel to nature.This purpose of achieving harmony in composition and structure is evident in this painting. In creating this composition, Cézanne challenged the idea of Linear perspective. Since the early Renaissance, artists have used a single vantage point to create the illusion of space. Cézanne recognized that the human perspective is far more complex than seeing an object from a fixed point of view. Instead, he expressed a moving perspective by looking at things from different perspectives. To this end, he carefully deconstructs images by presenting various perspectives. This is evident from the way the cookies are depicted on the table. Cookies appear to be viewed from the side, but also slightly from above. ",
+            "url": "./img/paintings-img/List36.jpg"
+        },
+
+        {
+            "id": 37,
+            "title": "The Great Bathers(1898-1905)",
+            "name": "Paul Cézanne (French, 1839-1906)",
+            "text":"In art, Paul Cézanne is called the father of modern art, and he had an absolute influence on Picasso's cubism composition method or Matisse's powerful color technique of the early 20th century Fauvism. He spent seven years painting this painting before his death, but it left it unfinished. The trees are reconstructed in the form of a pyramid, and the women taking a bath are expressed simply and three-dimensionally in harmony with the movement of the trees. Even so, the trees create a profound space, and the nude women are described with wriggling rhythms and concise expressions to create a creative composition.  Later, it is replaced by a woman lying in the background or looking forward. Moreover, the soft skin of women, the coolness of water, and the freshness of green plants are expressed in contrast of various tones, which reflects Cézanne's theoretical and practical learning results. This work, in which nature and people become one, is known as a prophetic masterpiece that entered the 20th century contemporary art with an innovative composition method at the time. ",
+            "url": "./img/paintings-img/List37.jpg"
+        }, 
+        
+
+        {
+            "id": 38,
+            "title": "Starry Night Over the Rhone(1888)",
+            "name": "Vincent van Gogh (Dutch, 1853-1890)",
+            "text":"Starry Night Commonly known as The Starry Night over the Rhone, this work is one of Vincent van Gogh's Arles paintings at night. It was painted on the riverside, a 1-2 minute walk from the Yellow House in Place Lamartine, which Van Gogh was renting at the time. Looking at his paintings of the landscape of the Rhône River, he feels rich. Although it lacks the clear outlines or mixture of various primary colors that are characteristic of Van Gogh's works, it makes you keep looking. The yellow lights, dark blue colors faintly visible in the night sky, and the scenery of the river, which contains everything in the night scenery, look quite relaxed. Persian blue, ultramarine, and cobalt blue are all mixed to show off all the pigments of blue. The yellow lights shine as if burning themselves, struggling not to be buried in the deep and thick blue waves. The size of the two men and women drawn in front is relatively small, showing a sense of contrast. The challenge of painting at night intrigued Van Gogh. The vantage point he chose for Starry Night allowed him to capture the reflections of Arles' gas lights across the shimmering blue waters of the Rhône. In the foreground, two lovers are strolling along the river bank. Color portrayal was very important to Vincent. In letters to his brother Theo, he often depicted objects in his paintings in color. His night paintings, including The Starry Night, emphasize his focus on capturing the sparkling colors of the night sky and the artificial light that was new to the era.",
+            "url": "./img/paintings-img/List38.jpg"
+        },
+
+        {
+            "id": 39,
+            "title": "The Arnolfini Portrait (1434)",
+            "name": "Jan van Eyck (Flemish, c. 1390-1441)",
+            "text":"It is an oil painting on oak panel by Jan van Eyck, a master of early Dutch art, in 1434.It is a portrait of Giovanni di Nicolao Arnolfini and his wife indoors, and the room in the background is presumably their residence in Bruges, Flanders. This painting is evaluated as one of the most original and complex paintings containing various symbols in the history of Western art. It is marked with the date and signature of 1434 and van Eyck, and is the oldest and most famous of the paintings using oil paint instead of tempera, along with the Ghent Altarpiece painted with his brother Hubert. In 1842, the National Gallery in London purchased this painting and exhibited it. This painting shows a typical style prevalent in Flanders in the 15th century, with surprisingly realistic and precise expression of detail, brilliant colors, and expression of spatial depth by experience rather than mathematical perspective. In particular, the realistic detail expression maximized through oil paint, which is said to have been invented by Jan van Eyck, stands out. ",
+            "url": "./img/paintings-img/List39.jpg"
+        },
+
+        {
+            "id": 40,
+            "title": "Madonna of Chancellor Rolin (1435)",
+            "name": "Jan van Eyck (Flemish, c. 1390-1441)",
+            "text":"This work depicts the life of Rollin, a high-ranking chancellor of the Duchy of Burgundy, Cardinal of Autten Cathedral.It is known as a work that was custom-made for his son who was enthroned and dedicated to the cathedral. Jan van Eyck shows Rolin on the left in this work, followed by a monastery, a house and grapes.Harvesting workers, on the right, the Virgin Mary, baby Jesus, and numerous churches. arranging the city. In other words, the present world and the heavenly world are divided arbitrarily between the character and the background.I am trying to show it inside the screen, and through the arched bridge in the center of the screen, this duality It also contains the symbolic meaning of connecting the two worlds. The unique light effect in the painting is one massive, meticulously calculated down to the last detail. It is directed by perspective. Through the three windows that let in the light and the river running alongside The field of view extends to the distant horizon. Two people looking from the railing in the distance",
+            "url": "./img/paintings-img/List40.jpg"
+        },
+
+        {
+            "id": 41,
+            "title": "Greece on the Ruins of Missolonghi(1826)",
+            "name": "Eugène Delacroix (French, 1798-1863)",
+            "text":"Delacroix's work, Greece Standing on the Ruins of Missolonghi, completed in 1826, shows the dynamism and dramatic scenes characteristic of the Romantic style, and the expression of exotic landscapes. The place where this work is set is Missolonghi, a city in western Greece. In 1825, Missolonghi was occupied by the Turkish army, which was ruling Greece at the time, and the Greek War of Independence against the Turks took place here. Such an event was a subject that attracted the attention of French intellectuals at the time, and Delacroix also chose a real incident that occurred at the same time as the subject of his work. Through this work, he wanted to support Greece's independence and express the ideology of democracy and freedom. At the center of the work is a woman dressed in typical Greek attire, with her breasts exposed, standing in the whirlpool of a terrible war. Delacroix borrows traditional Christian iconography from the woman's posture and dress. The blue coat and white skirt mean innocence, and the woman's arm movements are typical prayer gestures. She is kneeling on her left knee on a pile of rocks, her arms half-raised expressing her longing for freedom. The Greeks who were at war at the time would rather kill themselves after destroying their cities than surrender to the Turkish army. In the lower right corner of the work, the remains of a collapsed building and the arms of a corpse are revealed, vividly showing the terrible situation at the time. On the other hand, on the back of the woman, there is an enemy soldier planting a flag on the ground.",
+            "url": "./img/paintings-img/List41.jpg"
+        },
+
+        {
+            "id": 42,
+            "title": "Wheat Field with Cypresses (1889)",
+            "name": "Vincent van Gogh (Dutch, 1853-1890)",
+            "text":"His works do not properly draw what he is looking at by coldly observing, criticizing, and arranging it, but directly depicting it with burning passion. It burns his mind and body as he continues to look at it and feels it, and it whips up that impulse to create his touch and rhythm, making him vibrate. For that reason, he only expresses originality. Looking from the happy Arles period, the works painted in Saint-Remy after entering a mental hospital expose more intensity. The wind is harsh in that region, so even in this scene, barley sways in the fields of Saint-Remy, and the trees are holding the wind. Repeated touches on the barley in the foreground transmit waves of passion and drift around, the lowly developed mountains move, and white clouds swirl in the sky. And on the right side stood an arborvitae tree. The olive tree, with its branches rolled up, is like a green flame. Moreover, the melancholy that can be felt even in the barley field is full of flow, and the few flowers in front of it are dotted with a pitiful red light. Unlike Arles, the landscape of Saint-Rémy is desolate, and this work also expresses it in color, and the powerfully moving expression gives Van Gogh an impression of being unshakable and desolate in a jumping impulse. Van Gogh only continues to create works that burn the mind and body, but as it is said that life is the most important thing in painting, it is rare to see an artist who has brought that life to life as much as Van Gogh.",
+            "url": "./img/paintings-img/List42.jpg"
+        },
+
+        {
+            "id": 43,
+            "title": "De Nachtwacht (1642)",
+            "name": "Rembrandt van Rijn (Dutch, 1606-1669)",
+            "text":"This is a 1642 painting by Rembrandt. It is on display at the Rijksmuseum in Amsterdam. Contrary to the title, the background is daytime. After painting, varnish is applied at the last step to protect the painting. This varnish reacts with heat and oxygen over time, turning yellow and black. Rembrandt's paintings were also blackened by self-oxidation of the varnish applied to protect the painting and give uniformity to the screen. So the day seemed like night. In the process of restoring Rembrandt's painting in 1940, conservators removed the severely discolored varnish and found Rembrandt's hidden light in the process of repainting it. It is regarded as Rembrandt's representative and immortal masterpiece. Night view has three important elements. The first is the huge size, the second is the appropriate use of light and shadow, and the last is that the portraits of soldiers at the time are drawn. The Night View was completed in 1642, at the height of the Dutch Golden Age. The work has the same name as the work, and has the captain Frans Vanning Koch in black and red girdle and the lieutenant Willem van Ruytenburg in yellow and white girdle. Rembrandt's appropriate use of light and shadow directs his gaze to three important places - the crowd in the background, the captain Frans Banning Koch and Lieutenant Willem van Ruetenburg in the center, and the girl to the left of the center. Behind them is Ensign Jan Visscher Cornelissen holding the emblem of the militia.",
+            "url": "./img/paintings-img/List43.jpg"
+        },
+
+        {
+            "id": 44,
+            "title": "The Boulevard Montmartre at Night(1898)",
+            "name": "Camille Pissarro (French, 1830-1903)",
+            "text":"Camille Pissarro taught many young artists about Impressionism. Because of his advice, he is often considered the founder of Impressionism. This painting was painted in February 1897 in Paris, Pissarro, at the corner of four boulevards.Staying in a hotel room in Paris, I drew a series of Boulevard Montmartre at different times.Boulevard Montmartre, the night scenery depicts a busy Parisian boulevard.The new electric street lights introduced at the time gave him the opportunity to study the orange glow of gas lamps seen in windows.Camille expressed various colors of artificial light and various effects.Under the trees and beyond the shops, you can see the crowds making their way down the busy boulevards. On one side of the street is a line waiting for guests to leave the show at the Moulin Rouge. Rows of wagons are brightly lit. The sky is dark and foggy, Stars visible in the sky show that the clouds are about to pass.",
+            "url": "./img/paintings-img/List44.jpg"
+        },
+
+        {
+            "id": 45,
+            "title": "Spring Barbizon (1873)",
+            "name": "Jean-François Millet (French, 1814-1875)",
+            "text":"In Spring and Autumn, two of the ‘Four Seasons’ series, the landscape occupies a dominant motif throughout the work, thanks to Millet’s special attention to the landscape since 1865. On the other hand, in the other two works, it can be seen that the figure rather than the landscape was used as a motif that dominates the entire work. However, character motifs are not excluded at all in this work 「Spring」. This is because it can be confirmed that a small figure of a farmer sheltering from the rain is drawn under the drawn tree in the distant view in the center of the work. At the same time, the nature processed by human hands, such as a road, a fence, an orchard, and a grafted tree drawn on the left, are well arranged. Inspired by a view that Millet loved to observe in his gardens at Barbizon, this landscape painting shows a dirt road leading into an orchard planted with blossoming apple trees, a vegetable garden to the left, and a wooded hill in the foreground. see. As can be seen from the depiction of flowers that decorate the road in the work, Millet, who enjoyed observing nature faithfully, not only expressed his longing for painters such as Louis Dahl and John Constable through this work, but also showed what nature showed. He expressed his affection for the darkness and the light that suddenly appears as a kind of 'romantic gaze'. In addition, he tried to capture the fleeting moment on canvas through surprisingly fresh colors.",
+            "url": "./img/paintings-img/List45.jpg"
+        },
+
+        {
+            "id": 46,
+            "title": "The Harvesters (1565)",
+            "name": "Pieter Bruegel The Elder (Flemish, 1525 - 1569)",
+            "text":"The painting is one of a series of six works, five of which are still extant and depict different times of the year. As in many of his paintings, the focus is on peasants and their work, and there are no religious themes common in landscape paintings of the time. In particular, some farmers are shown harvesting wheat while others eat. of food. Pears are visible on a white cloth in front of a woman sitting upright eating bread and cheese, and a figure in a tree on the far right is picking pears. The painting shows many activities representative of rural life in Belgium in the 16th century. For example, on the far right, a person is waving an apple from a tree. To the left of center in the painting are villagers engaged in a bloody sport called rooster tossing. The painting has been in the collection of the Metropolitan Museum of Art in New York since 1919. This painting by the Metropolitan Museum of Art is said to be a watershed in Western art history and the first modern landscape painting. Workers carrying wheat fields, people bathing in a pond, children playing, and ships in the distance give a sense of distance.",
+            "url": "./img/paintings-img/List46.jpg"
+        },
+
+        {
+            "id": 47,
+            "title": "Boulevard des Capucines(1873)",
+            "name": "Claude Monet (French, 1840-1926)",
+            "text":"Today, we view this celebrated painting by Claude Monet as a convincing depiction of a bustling Paris boulevard as it might appear from high above, seen through the cold, damp air of winter. Typically Impressionist are the blue shadows and bold, individual brush strokes used to indicate pedestrians whose forms become blurred in motion. In the first Impressionist exhibition of 1874, where either this painting or Another similar version was exhibited, such marks were described by a critic accustomed to precise outlines and controlled brushwork as black tongue-lickings. Most of the general public agreed. The pink dabs of paint at center right in the painting are hard to identify but are most likely balloons.",
+            "url": "./img/paintings-img/List47.jpg"
+        },
+
+        {
+            "id": 48,
+            "title": "The beheading of St.John the Baptist (1608)",
+            "name": "Caravaggio (Italian, 1571-1610)",
+            "text":"The Beheading of Saint John the Baptist is an oil painting by Italian artist Caravaggio. Oil on canvas, this painting is 12 feet tall. 17 feet What stands out are the vivid reds and warm yellows with shading in the baroque era . This image depicts the execution of John the Baptist, with a nearby maid standing holding a gold platter to receive his head. Herodias, realizing the execution was wrong, or another woman identified simply as a bystander, stands in shock as the jailer gives instructions and the executioner draws a dagger to end the beheading. The scene, usually popular with Italian artists and Caravaggio himself, was not directly inspired by the Bible, but by stories related to the Golden Legend. It is the only work by Caravaggio that bears the artist's signature in the red blood that flowed from the baptist's severed neck. The image has significant white space, but the canvas is quite large, so the figures are close to life-size. Caravaggio drew the background for the work from memories of his time in the prison of the Knights of Malta.",
+            "url": "./img/paintings-img/List48.jpg"
+        },
+
+        {
+            "id": 49,
+            "title": "Two Sisters (1881) ",
+            "name": "Pierre-Auguste Renoir (French, 1841-1919)",
+            "text":"Renoir described the sisters as smooth as a photograph by meticulously applying soft colors to neat lines like classical painters, while the trees, leaves, and flowers that make up the background were drawn with short touches, creating impressionism. As a member, he showed his taste for classic paintings without fail. Celebrating the beauty of spring and the vitality of youth, the two sister terraces are Renoir's masterpieces both technically and compositionally. This master used vibrant colors and kaleidoscopic brushstrokes in this painting. Contrary to the title of the work, these almost life-size figures, who are not actual sisters but models, occupy a narrow space on the iron railing in front of the terrace. Behind them, the landscape of vibrantly swaying leaves is clearly expressed, showing a neat outline. The faces of the two girls are beautifully rendered. Renoir uses a new emphasis technique mastered with a new technique, and the radiance of the shiny face like the surface of porcelain is well expressed through contrast. Children's pupils are surprisingly clear. The transparent blue color reveals the artist's desire to see the world anew through innocent eyes. Renoir always transformed what he saw, and in this work he tried to harmonize the natural and the artificial. For example, the leaves behind the figures are no less than the artificial flowers adorning the hats of young girls. Although slightly out of context with the outdoor setting, the ball of string in the basket also makes effective use of the colors in the artist's palette and his technique. This work, shown at the seventh Impressionist exhibition held in 1882, shows that Renoir is trying to break away from the biased tendency of the impressionists, such as the temporary effect of light caused by the touch of a fluttering brush.",
+            "url": "./img/paintings-img/List49.jpg"
+        },
+
+        {
+            "id": 50,
+            "title": "Water Serpents II (1907)",
+            "name": "Gustav Klimt (Austrian, 1862-1918)",
+            "text":"Water Serpents II, also known as Wasserschlangen II, is an oil painting by Gustav Klimt in 1907. This is a follow-up to the previous painting, Water Serpents I. Like the first picture, Water Serpents II deals with the female body and the sensuality of same-sex relationships. There is a group of four water nymphs depicted in lustful bliss in the painting. The two are seen fully nude in the foreground. The other two can be found in the top right corner of the piece, only the head is visible. This painting is an undisputed depiction of a mythical figure common in art for centuriescan be seen as However, it has also been interpreted as a depiction of a lesbian orgy. Because same-sex relationships were not tolerated at the time, Klimt disguised women as mythological figures. This is supported by the fact that the main character's conspiracy is revealed and the fact that he is gazing sensually into his gaze. This glare is reminiscent of the way the subject glared at the viewer in the painting Manet's Olympia. This painting and its lesbian subject matter are considered precursors to later Klimt paintings such as Women Friends (1917), which showed lesbian relationships more openly.",
+            "url": "./img/paintings-img/List50.jpg"
+        },
+
+        {
+            "id": 51,
+            "title": "Tableau No.2,Composition No. VII(1913)",
+            "name": "Piet Mondrian (Dutch, 1872 - 1944)",
+            "text":"When Mondrian saw Cubist paintings by Georges Braque and Pablo Picasso at a 1911 exhibition in Amsterdam, he was inspired to go to Paris. Tableau no. 2/Composition No. VII, painted a year after his arrival in 1912, exemplifies Mondrian's regard for the new technique. With a procedure indebted to high Analytic Cubism, Mondrian broke down his motif in this case a tree into a scaffolding of interlocking black lines and planes of color; furthermore, his palette of close-valued ocher and gray tones resembles Cubist canvases. Yet Mondrian went beyond the Parisian Cubists' degree of abstraction: his subjects are less recognizable, in part because he eschewed any suggestion of volume, and, unlike the Cubists, who rooted their compositions at the bottom of the canvas in order to depict a figure Subject to gravity, Mondrian's scaffolding fades at the painting's edges. In works such as Composition 8, based on studies of Parisian building façades, Mondrian went even further in his refusal of illusionism and the representation of volume. During the war years, Mondrian continued to move toward greater abstraction, rejecting diagonal lines and decreasing his reliance on his favored subjects—trees, seascapes, and architecture. Composition, which developed from studies of a church, is among the last of his works that can be traced to an observable source. Canvases like this make it clear that Mondrian's interest lay foremost in coming to terms with the two-dimensionality of the painted surface. For this work, the artist designed a strip frame (now lost), which he said prevented the sensation of depth created by traditional carved frames.",
+            "url": "./img/paintings-img/List51.jpg"
+        },
+
+        {
+            "id": 52,
+            "title": "The Magpie (1868 - 1869)",
+            "name": "Claude Monet (French, 1840-1926)",
+            "text":"The Magpie is an oil-on-canvas landscape painting by French Impressionist Claude Monet, made near the Commune of Étretat in Normandy in the winter of 1868-1869. The screen of Magpie depicts a black magpie sitting alone on a gate made of wattle fence, and the sun shines on the freshly fallen snow, creating a blue shadow. This painting features one of the first examples of Monet's use of colored shadows that would later be associated with the Impressionist movement. Challenging the academic convention of painting shadows black, Monet and the Impressionist painters used colored shadows to represent the real changing conditions of light and shadow found in nature. This subjective theory of color perception was introduced to the art world through the works of Johann Wolfgang von Goethe and Michel Eugene Chevreul. early century Monet's innovative use of light and color at the time was rejected at the Paris Salon of 1869. Art historians today classify Magpie as one of Monet's finest snow paintings. The painting was kept private until it was acquired by the Musée d'Orsay in 1984. It is considered one of the most popular paintings in the permanent collection.",
+            "url": "./img/paintings-img/List52.jpg"
+        },
+
+        {
+            "id": 53,
+            "title": "The Weeping Woman (1937)",
+            "name": "Pablo Ruiz Picasso(Spanish, 1881-1937)",
+            "text":"Pablo Picasso, who is called a master of modern art, depicted a weeping woman in a painting. Picasso expressed the weeping woman in his patented cubism method. The pupils of the woman are in front, but the lips and teeth are in the side. Picasso expressed the image of a woman viewed from two different points at the same time on one screen. Picasso used various strategies in his painting to emphasize the woman's sadness. Let's look at the woman's features first. The woman was weeping so violently that her eyes opened in opposite directions and her nose and mouth were distorted. The outline of the face is thick black and sharp like a piece of glass. The border of the white handkerchief that the woman bites with her teeth is also threatening like a weapon. While the shape of a woman's face is distorted and deconstructed, her fashion is full of sophistication and splendor. The woman wore a red hat adorned with flowers, and her hair was neatly combed back. You can guess that the woman was trying to impress someone by looking at her splendidly decorated appearance and expecting a happy moment. But someone, and some unfortunate event, tore the woman's happy heart to pieces and shattered it. Because the woman was full of fashion, she painted the background in primary colors such as red, green, yellow, and blue, so her sadness is felt more intensely.",
+            "url": "./img/paintings-img/List53.jpg"
+        },
+
+        {
+            "id": 54,
+            "title": "The Orchestra At The Opera (1870)",
+            "name": "Edgar Degas (French, 1834-1917)",
+            "text":"This is the first of Degas' operatic depictions and is often seen as marking the final break with his historical paintings of the early 1860s. It is essentially a portrait of his bassoonist friend Desire Dihau, who sits in the center, in a position more commonly would have been occupied by one of the first violins. Other figures can also be identified. Cellist Louis-Marie Pilet on the left and the double bass player with their backs to the viewer. The dark, dominant black tones of the foreground figures contrast sharply with the stage-lit dancers in the background. However, to avoid distracting attention from the orchestra, the dancers' shoulders are shown cropped. It is brushed much more loosely to give an idea of ​​movement and to capture the texture of the tutu compared to the meticulously finished treatment of the performers. The dominant black tones of the foreground figures contrast sharply with the stage-lit dancers in the background. However, to avoid distracting attention from the orchestra, the dancers' shoulders are shown cropped. It is brushed much more loosely to give an idea of ​​movement and to capture the texture of the tutu compared to the meticulously finished treatment of the performers. The dominant black tones of the foreground figures contrast sharply with the stage-lit dancers in the background. However, to avoid distracting attention from the orchestra, the dancers' shoulders are shown cropped.",
+            "url": "./img/paintings-img/List54.jpg"
+        },
+
+        {
+            "id": 55,
+            "title": "Death and girl (1915)",
+            "name": "Egon Schiele (Austrian, 1890-1918)",
+            "text":"Death and the Maiden is an oil painting on canvas by the Austrian artist Egon Schiele in 1915. The painting was created when the painter, after marrying Edith Harms, was drafted into military service in the First World War. The presence of death, but also the connection between death and eros in several of his works from this period, is associated with this event. In this painting he uses a Renaissance motif, the contrast between death and the maiden. In this painting, the woman clutching the shape of death as her lover, in a monk's robe, loses its horror. There are some similarities with fellow Austrian painter Oskar Kokoschka painting The Bride of the Wind (1914). The title of the painting is eponymous for the feature film Egon Schiele: Death and the Maiden (2016) by director Dieter Berner, based on the biographical novel Death and Girls: Egon Schiele and the Women by Hilde Berger.",
+            "url": "./img/paintings-img/List55.jpg"
+        },
+
+        {
+            "id": 56,
+            "title": "Study for‘A Sunday on La Grande Jatte’(1884)",
+            "name": "Georges Seurat (French, 1859-1891)",
+            "text":"As one of the representative works of Georges Seurat, the founder of Neo-Impressionism, it attracted attention when it was exhibited at the 8th Impressionist Exhibition in 1886. It depicts citizens spending a clear summer day on the island of Grande Jatte near Paris. Various colors, lights, and shapes are meticulously expressed through pointillism. Seurat felt dissatisfied with the fact that while the analysis of light followed the technique of Impressionism, Impressionism's instinctive and intuitive production attitude was excessively tied to light and spreading forms, and tried to give strict theory and scientificity to this. More than 70 preliminary sketches and drawings were made with oil paints to paint a Sunday afternoon on the island of Grande Jatte, which emphasized careful composition and simplified geometric shapes. There are traces of efforts to maintain unity, scientifically systematize the color principles of Impressionism, and rebuild the formative order that Impressionism ignored by reducing colors to primary colors, composing a screen with countless dots, and introducing the so-called pointillism method using the synthesis of light. peep out In this regard, this painting is evaluated as a very meaningful work today.",
+            "url": "./img/paintings-img/List56.jpg"
+        },
+
+        {
+            "id": 57,
+            "title": "Evening, Honfleur (1886)",
+            "name": "Georges Seurat (French, 1859-1891)",
+            "text":"he rough seas and rugged shoreline of the northern French coast had long attracted artists, including Georges-Pierre Seurat, who spent the summer of 1886 in this region in a resort town called Honfleur. He went to clear his vision, or, as he put it, to “wash the light of the studio” from his eyes. There he painted Evening, Honfleur, calming the turbulent shoreline in his peaceful sunset scene. Seurat immersed himself in the science and study of optics, and contemporary writing on color theory, which helped him to develop the new approach to painting reflected in Evening, Honfleur. Systematic and measured, his technique involved the application of separate, distinct touches of unmixed color to form an image. In the viewer’s eye, these small points of color can both coalesce into coherent scenes and remain separate particles that seem to generate a shimmer over the composition. In reference to these dots of color, this technique became known as Pointillism. Seurat meticulously applied at least 25 colors to Evening, Honfleur in thousands of individual dots. Long bands of clouds echo the horizon and the breakwaters on the beach. Sky and sea fill most of the composition, giving it a sense of vastness. Seurat added the wooden frame to his painting later, hand-painting it with the same Pointillist technique to suggest the extension of the image past the boundaries of the canvas. In the frame’s upper-right corner, the dots grow lighter, extending the glow of the setting sun.",
+            "url": "./img/paintings-img/List57.jpg"
+        },
+
+        {
+            "id": 58,
+            "title": "The pink peach tree (1888)",
+            "name": "Vincent van Gogh (Dutch, 1853-1890)",
+            "text":"During his first weeks in Arles in the South of France, Vincent van Gogh set up his easel in the orchard almost every day to record the glorious blossoms. In a brief time he painted fifteen orchards. He was hopeful that the paintings would sell well, since he believed that the subjects had the power to ‘cheer everyone up. When he saw the works he was pleased with together, he wanted to combine them as decorative triptychs. Van Gogh was familiar with triptychs, in which three works form a single harmonious entity, from Japanese graphic art. There is an earlier, nearly identical version of this painting in the collection of The Kröller Müller Museum. Van Gogh dedicated the first painting to Anton Mauve after he saw his death notice. Mauve was a well-known artist, who taught Van Gogh the basics of painting in watercolour and oils. Mauve was also Van Gogh’s uncle by marriage. Van Gogh later made this new version and send it to Theo.",
+            "url": "./img/paintings-img/List58.jpg"
+        },
+
+        {
+            "id": 59,
+            "title": "The Siesta (1890)",
+            "name": "Vincent van Gogh (Dutch, 1853-1890)",
+            "text":"The siesta was painted while Van Gogh was interned in a mental asylum in Saint-Rémy de Provence. The composition is taken from a drawing by Millet for Four Moments in the Day. Remaining faithful to the original composition, even down to the still life details in the foreground, Van Gogh nevertheless imposes his own style upon this restful scene which, for Millet, symbolized rural France of the 1860's. This highly personal retranscription is achieved primarily by means of a chromatic construction based on contrasting complementary colours: blue-violet, yellow-orange. Despite the peaceful nature of the subject, the picture radiates Van Gogh's unique artistic intensity.",
+            "url": "./img/paintings-img/List59.jpg"
+        },
+
+        {
+            "id": 60,
+            "title": "The Artist’s Garden at Vétheuil (1881)",
+            "name": "Claude Monet (French, 1840-1926)",
+            "text":"Monet planted gardens wherever he lived. When he rented this house at Vétheuil, he made arrangements with the owner to landscape the terraces, which lead down to the Seine. The boy with the wagon is Monet's young son, and on the steps behind him are other members of his extended household. On the path, the brilliant sunlight is dappled with shade that falls in blues, plums, and various greens. Figures and faces are defined —briefly— with color. The large flowerpots were Monet's, and he took them with him each time he moved, using them in other gardens. They are blue and white only in our understanding: examined up close they are blue and green where they reflect the grass behind them, elsewhere tinged with gold or pink. By the early 1880s, when this work was painted, Monet had become increasingly interested in the painted surface itself and less concerned with capturing a spontaneous effect of light and atmosphere. The very composition of this painting, with its high horizon, traps our eye in the canvas—even the path is blocked in the distance by the rising steps. We are forced back to the surface, where the paint is textured and heavily layered. At close range, these brushstrokes, though still inspired by nature, seem less descriptive than decorative.",
+            "url": "./img/paintings-img/List60.jpg"
+        },
+
+        {
+            "id": 61,
+            "title": "The Intervention Of The Sabine Women (1799)",
+            "name": "Jacques Louis David (French, 1748 - 1825)",
+            "text":"The Intervention of the Sabine Women is a 1799 painting by the French artist Jacques-Louis David that depicts the legendary episode after the abduction of the Sabine women by the founding generation of Rome. Work on the painting began in 1796 after his estranged wife visited him in prison. He thought of telling a story in his wife's honor on the theme of love over conflict and the protection of children. The painting was also seen as a plea for people's unity after the bloodshed of the Revolution. It took me almost 4 years to realize that. The painting depicts Romulus' wife Hersilia rushing between husband and father, with a child between them. Romulus, full of vitality, tries to attack the half-backed Tatius with a spear, but he hesitates. The rocky outcrop in the background is the Tarpea cliffs, a reference to the civil war as the Roman punishment for treason was to be cast from a rock. Legend has it that when Tatius attacked Rome, he almost succeeded in capturing the city because of the rebellion of the vestal maiden Tarpeia, daughter of Spurius Tarpheus, governor of the citadel on the Capitoline Hill. She opened the gates for the Sabines in return for what they carried in her arms. She believed she would receive their golden bracelet. Instead, the Sabines trampled her to death and threw her from the rock that later bears her name. ",
+            "url": "./img/paintings-img/List61.jpg"
+        },
+
+        {
+            "id": 62,
+            "title": "La nascita di Venere(1485)",
+            "name": "Sandro Botticelli(Italian, 1445-1510)",
+            "text":"The Birth of Venus is one of the representative paintings by Sandro Botticelli, a 15th-century Renaissance painter, and is exhibited at the Uffizi Gallery in Florence, Italy. This painting depicts Venus, the goddess of love and beauty in Roman mythology, landing on the shore after being born in the sea in the form of a mature woman. The Birth of Venus is believed to have been painted by Botticelli around 1483 to decorate Lorenzo di Pierfrancesco de' Medici's Villa Castello, but some scholars believe that Pierfrancesco suggested that Botticelli paint a picture of Venus, and that Giorgio Vasari Other paintings are believed to have been exhibited in Florence to this day. The classical goddess Venus emerges from a floating seashell and lands on the shore, driven by the wind of Zephyrus (Western Wind), a symbol of spiritual love, while one of the Horais, goddesses of the seasons, hands Venus a mantle covered in flowers. are giving Botticelli's The Birth of Venus differs from the strict classical realism that can be felt in the works of Renaissance painters such as Leonardo da Vinci and Raphael. Venus' neck is unrealistically long and the slope of her left shoulder is at an anatomically impossible angle to emphasize the beauty of the work.",
+            "url": "./img/paintings-img/List62.jpg"
+        },
+
+        {
+            "id": 63,
+            "title": "Turning Road at Montgeroult (1898)",
+            "name": "Paul Cézanne (French, 1839-1906)",
+            "text":"This is the last painting Cézanne made in the small French village of Montgeroult before returning to his hometown of Aix-en-Provence, where he remained until his death. Cézanne painted the hillside scene from direct observation, as he felt strongly that pictures painted inside, in the studio, will never be as good. He also believed that when out-of-door scenes are represented, the contrasts between the figures and the ground are astounding and the landscape is magnificent. Indeed, the geometric ochre planes of the buildings boldly outlined in blue emerge in focus from the loosely rendered foliage. As the road bends down the hill, it shifts and ultimately is subsumed by the greenery, which is actually composed of a striking array of colors. ",
+            "url": "./img/paintings-img/List63.jpg"
+        },
+
+        {
+            "id": 64,
+            "title": "Mill on the Couleuvre at Pontoise(1881)",
+            "name": "Paul Cézanne (French, 1839-1906)",
+            "text":"Cézanne’s art was still highly controversial when the Nationalgalerie purchased this painting: it was only two years previously that the French government had accepted two of his works as part of the Caillebotte donation, but had rejected another three. For a long time, Cézanne commuted between his place of birth, Aix-en-Provence, and Paris, although he also stayed in various towns of the Ile-de-France. Camille Pissarro lived in Pontoise northwest of Paris. Cézanne paid him several visits there and their work together encouraged him in the direction of light, impressionistic colours: We perhaps all go back to Pissarro, he later said. The older painter also led him to that clarity and calm that pervade the painting of the mill, and which are achieved despite extraordinary accuracy in his portrayal of the motif; this is clear from old pictures showing the Moulin des Etannets on the rue des Deux Ponts, one of many mills in that area that depended on the corn trade for its existence. The flat white houses in the background create a sober effect. At the same time, there is a geometric order that takes in the whole picture plane. The composition is governed by strict horizontals and verticals cutting across each other.",
+            "url": "./img/paintings-img/List64.jpg"
+        },
+
+        {
+            "id": 65,
+            "title": "Guernica(1937)",
+            "name": "Pablo Ruiz Picasso(Spanish, 1881-1937)",
+            "text":"Guernica is a large 1937 oil painting by Spanish artist Pablo Picasso. It is one of his best-known works, regarded by many art critics as the most moving and powerful anti-war painting in history. It is exhibited in the Museo Reina Sofía in Madrid. The grey, black, and white painting, on a canvas 3.49 meters  tall and 7.76 meters  across, portrays the suffering wrought by violence and chaos. Prominent in the composition are a gored horse, a bull, screaming women, a dead baby, a dismembered soldier, and flames. Picasso painted Guernica at his home in Paris in response to the 26 April 1937 bombing of Guernica, a Basque Country town in northern Spain that was bombed by Nazi Germany and Fascist Italy at the request of the Spanish Nationalists. Upon completion, Guernica was exhibited at the Spanish display at the 1937 Paris International Exposition, and then at other venues around the world. The touring exhibition was used to raise funds for Spanish war relief. The painting soon became famous and widely acclaimed, and it helped bring worldwide attention to the 1936-1939 Spanish Civil War.",
+            "url": "./img/paintings-img/List65.jpg"
+        }
+
+
+
+
+
+
+   
+    ]
+}
