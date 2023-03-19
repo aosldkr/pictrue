@@ -1,0 +1,327 @@
+$mobile : 375px;
+$tablet : 768px;
+@mixin device($min, $max) {
+    @media (min-width:$min) and (max-width:$max) {
+        @content;
+    }
+}
+
+@include device($mobile,$tablet){
+//mobile
+main{
+    width: 100%;
+    margin-top: 10vh;
+
+    .Modern-MainImg{
+        width: 100%;
+        height: 90vh;
+        background: url(../img/modern-img/main-img.jpg) center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h2{
+            color: #ffffff;
+            font-size: 40px;
+        }
+    }
+
+    .ModernContent01{
+        width: 80%;
+        margin: 0 auto;
+        .EarlyModernTittle{
+            width: 100%;
+            margin-bottom: 100px;
+            letter-spacing: -0.01px;
+
+            h3{
+                font-size: 30px;
+                font-weight: lighter;
+                color: #222222;
+                margin-bottom: 100px;
+                position: relative;
+                margin-bottom: 30px;
+
+                &::after{
+                    content: "";
+                    background-color: #222222;
+                    width: 80%;
+                    height: 2px;
+                    position: absolute;
+                    bottom: -6px;
+                    margin-left: -157px;
+                }
+            }
+
+            p{
+                font-size: 12px;
+                text-align: justify;
+                letter-spacing: 0.3px;   
+            }
+        }
+    }
+
+    .ModernContent02{
+        width: 100%;
+
+        .NeoclassicismContent{
+            width: 100%;
+            display: flex;
+            flex-direction: column-reverse;
+            
+            
+            .NeoclassicismContent-text{
+                width: 100%;
+                background-color: #041A2F;
+                color: #ffffff;
+                padding: 50px 30px 50px 30px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 24px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                p{
+                    font-size: 12px;
+                    margin-bottom: 30px;
+                    text-align: justify;
+                    letter-spacing: -0.3px;
+                }
+    
+                h4{
+                    font-size: 18px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                span{
+                    width: 100%;
+                    font-size: 12px;
+                }
+            }
+            figure{
+                width: 100%;
+
+                img{
+                    width: 100%;
+                    height: 230px;
+                }
+            }
+        }
+
+        .RomanticismContent{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            
+            .RomanticismContent-text{
+                width: 100%;
+                height: 513px;
+                background-color: #B5C7D3;
+                color: #ffffff;
+                padding: 50px 30px 0px 30px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+    
+                h3{
+                    font-size: 24px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                    line-height: 33px;
+                }
+
+                p{
+                    font-size: 12px;
+                    margin-bottom: 30px;
+                    text-align: justify;
+                    letter-spacing: -0.3px;
+                }
+    
+                h4{
+                    font-size: 18px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                span{
+                    font-size: 12px;
+                }
+            }
+            figure{
+                width: 100%;
+
+                img{
+                    width: 100%;
+                    height: 230px;
+                }
+            }
+
+            
+        }
+
+        .RealisticContent{
+            width: 100%;
+            display: flex;
+            flex-direction: column-reverse;
+            
+            
+            .RealisticContent-text{
+                width: 100%;
+                background-color: #A7727D;
+                color: #ffffff;
+                padding: 50px 30px 50px 30px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 24px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                p{
+                    font-size: 12px;
+                    margin-bottom: 30px;
+                    text-align: justify;
+                    letter-spacing: -0.3px;
+                }
+    
+                h4{
+                    font-size: 18px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                span{
+                    font-size: 12px;
+                }
+            }
+            figure{
+                width: 100%;
+
+                img{
+                    width: 100%;
+                    height: 230px;
+                }
+            }
+        }
+
+        .ImpressionismContent{
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .ImpressionismContent-text{
+                width: 100%;
+                height: 500px;
+                background-color: #579BB1;
+                color: #ffffff;
+                padding: 50px 30px 0px 30px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+    
+                h3{
+                    font-size: 24px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                    line-height: 33px;
+                }
+
+                p{
+                    font-size: 12px;
+                    margin-bottom: 30px;
+                    text-align: justify;
+                    letter-spacing: -0.3px;
+                }
+    
+                h4{
+                    font-size: 18px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                span{
+                    font-size: 12px;
+                }
+            }
+            figure{
+                width: 100%;
+
+                img{
+                    width: 100%;
+                    height: 230px;
+                }
+            }
+
+            
+        }
+
+        .NeoimpressionismContent{
+            width: 100%;
+            display: flex;
+            flex-direction: column-reverse;
+            margin-bottom: 100px;
+            
+            .NeoimpressionismContent-text{
+                width: 100%;
+                background-color: #678983;
+                color: #ffffff;
+                padding: 50px 30px 50px 30px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 24px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                    line-height: 33px;
+                }
+
+                p{
+                    font-size: 12px;
+                    margin-bottom: 30px;
+                    text-align: justify;
+                    letter-spacing: -0.3px;
+                }
+    
+                h4{
+                    font-size: 18px;
+                    font-weight: lighter;
+                    margin-bottom: 30px;
+                }
+
+                span{
+                    font-size: 12px;
+                }
+            }
+            figure{
+                width: 100%;
+
+                img{
+                    width: 100%;
+                    height: 230px;
+                }
+            }
+        }
+   
+    }
+
+    
+
+}
+
+};
+
+@include device(767px,1024px) {
+}

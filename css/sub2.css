@@ -1,0 +1,310 @@
+main {
+  width: 100%;
+}
+main .MedievalMainImg {
+  width: 100%;
+  height: 90vh;
+  background: url(../img/medieval-img/mian-img.jpg) center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .MedievalMainImg h2 {
+  color: #ffffff;
+  font-size: 60px;
+}
+main .MedievalContent01 {
+  width: 80%;
+  margin: 0 auto;
+}
+main .MedievalContent01 .MedievalTittle {
+  width: 100%;
+  margin-bottom: 180px;
+  letter-spacing: -0.1px;
+}
+main .MedievalContent01 .MedievalTittle h3 {
+  font-size: 50px;
+  font-weight: lighter;
+  color: #222222;
+  margin-bottom: 180px;
+  position: relative;
+  margin-bottom: 60px;
+}
+main .MedievalContent01 .MedievalTittle h3::after {
+  content: "";
+  background-color: #222222;
+  width: 76.9%;
+  height: 2px;
+  position: absolute;
+  bottom: 21px;
+  margin-left: 60px;
+}
+main .MedievalContent01 .MedievalTittle p.Medieval-subtitle {
+  font-size: 16px;
+}
+main .MedievalContent02 {
+  width: 100%;
+}
+main .MedievalContent02 .ByzantineContent {
+  width: 100%;
+  display: flex;
+}
+main .MedievalContent02 .ByzantineContent .ByzantineContent-text {
+  width: 52%;
+  background-color: #575757;
+  color: #ffffff;
+  padding: 80px 267px 80px 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+main .MedievalContent02 .ByzantineContent .ByzantineContent-text h3 {
+  font-size: 40px;
+  font-weight: lighter;
+}
+main .MedievalContent02 .ByzantineContent .ByzantineContent-text h4 {
+  font-size: 24px;
+  font-weight: lighter;
+}
+main .MedievalContent02 .ByzantineContent figure {
+  width: 48%;
+}
+main .MedievalContent02 .ByzantineContent figure img.r1 {
+  width: 100%;
+}
+main .MedievalContent02 .RomanesqueContent {
+  width: 100%;
+  display: flex;
+}
+main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text {
+  width: 48%;
+  background-color: #8977AD;
+  color: #ffffff;
+  padding: 80px 200px 80px 202px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text h3 {
+  font-size: 40px;
+  font-weight: lighter;
+}
+main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text h4 {
+  font-size: 24px;
+  font-weight: lighter;
+}
+main .MedievalContent02 .RomanesqueContent figure {
+  width: 52%;
+}
+main .MedievalContent02 .RomanesqueContent figure img.r2 {
+  width: 100%;
+}
+main .MedievalContent02 .GothicContent {
+  width: 100%;
+  display: flex;
+  margin-bottom: 180px;
+}
+main .MedievalContent02 .GothicContent .GothicContent-text {
+  width: 52%;
+  background-color: #C8A4B5;
+  color: #ffffff;
+  padding: 80px 267px 80px 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+main .MedievalContent02 .GothicContent .GothicContent-text h3 {
+  font-size: 40px;
+  font-weight: lighter;
+}
+main .MedievalContent02 .GothicContent .GothicContent-text h4 {
+  font-size: 24px;
+  font-weight: lighter;
+}
+main .MedievalContent02 .GothicContent figure {
+  width: 48%;
+}
+main .MedievalContent02 .GothicContent figure img.r3 {
+  width: 100%;
+}
+
+@media (min-width: 375px) and (max-width: 768px) {
+  main {
+    width: 100%;
+    margin-top: 10vh;
+  }
+  main .MedievalMainImg {
+    width: 100%;
+    height: 90vh;
+    background: url(../img/medieval-img/mian-img.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  main .MedievalMainImg h2 {
+    color: #ffffff;
+    font-size: 40px;
+  }
+  main .MedievalContent01 {
+    width: 80%;
+    margin: 0 auto;
+  }
+  main .MedievalContent01 .MedievalTittle {
+    width: 100%;
+    margin-bottom: 100px;
+    letter-spacing: -0.1px;
+  }
+  main .MedievalContent01 .MedievalTittle h3 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: #222222;
+    margin-bottom: 100px;
+    position: relative;
+    margin-bottom: 30px;
+  }
+  main .MedievalContent01 .MedievalTittle h3::after {
+    content: "";
+    background-color: #222222;
+    width: 80%;
+    height: 2px;
+    position: absolute;
+    bottom: -6px;
+    margin-left: -173px;
+  }
+  main .MedievalContent01 .MedievalTittle p.Medieval-subtitle {
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0.3px;
+  }
+  main .MedievalContent02 {
+    width: 100%;
+  }
+  main .MedievalContent02 .ByzantineContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  main .MedievalContent02 .ByzantineContent .ByzantineContent-text {
+    width: 100%;
+    background-color: #575757;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .MedievalContent02 .ByzantineContent .ByzantineContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .MedievalContent02 .ByzantineContent .ByzantineContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .MedievalContent02 .ByzantineContent .ByzantineContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .MedievalContent02 .ByzantineContent .ByzantineContent-text span {
+    font-size: 12px;
+  }
+  main .MedievalContent02 .ByzantineContent figure {
+    width: 100%;
+  }
+  main .MedievalContent02 .ByzantineContent figure img.r1 {
+    width: 100%;
+    height: 230px;
+  }
+  main .MedievalContent02 .RomanesqueContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text {
+    width: 100%;
+    background-color: #8977AD;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    line-height: 33px;
+  }
+  main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .MedievalContent02 .RomanesqueContent .RomanesqueContent-text span {
+    font-size: 12px;
+  }
+  main .MedievalContent02 .RomanesqueContent figure {
+    width: 100%;
+  }
+  main .MedievalContent02 .RomanesqueContent figure img.r2 {
+    width: 100%;
+    height: 230px;
+  }
+  main .MedievalContent02 .GothicContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 100px;
+  }
+  main .MedievalContent02 .GothicContent .GothicContent-text {
+    width: 100%;
+    background-color: #C8A4B5;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .MedievalContent02 .GothicContent .GothicContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .MedievalContent02 .GothicContent .GothicContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .MedievalContent02 .GothicContent .GothicContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .MedievalContent02 .GothicContent .GothicContent-text span {
+    font-size: 12px;
+  }
+  main .MedievalContent02 .GothicContent figure {
+    width: 100%;
+  }
+  main .MedievalContent02 .GothicContent figure img.r3 {
+    width: 100%;
+    height: 230px;
+  }
+}/*# sourceMappingURL=sub2.css.map */

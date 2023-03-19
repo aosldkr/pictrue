@@ -1,0 +1,299 @@
+@media (min-width: 375px) and (max-width: 768px) {
+  main {
+    width: 100%;
+    margin-top: 10vh;
+  }
+  main .Contemporary-MainImg {
+    width: 100%;
+    height: 90vh;
+    background: url(../img/Contemporary-img/main-img.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  main .Contemporary-MainImg h2 {
+    color: #ffffff;
+    font-size: 40px;
+  }
+  main .ContemporaryContent01 {
+    width: 80%;
+    margin: 0 auto;
+  }
+  main .ContemporaryContent01 .ContemporaryTittle {
+    width: 100%;
+    margin-bottom: 100px;
+    letter-spacing: -0.01px;
+  }
+  main .ContemporaryContent01 .ContemporaryTittle h3 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: #222222;
+    margin-bottom: 100px;
+    position: relative;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent01 .ContemporaryTittle h3::after {
+    content: "";
+    background-color: #222222;
+    width: 89%;
+    height: 2px;
+    position: absolute;
+    bottom: -6px;
+    margin-left: -245px;
+  }
+  main .ContemporaryContent01 .ContemporaryTittle p {
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0.2px;
+  }
+  main .ContemporaryContent02 {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .fauvismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  main .ContemporaryContent02 .fauvismContent .fauvismContent-text {
+    width: 100%;
+    background-color: #453C67;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .ContemporaryContent02 .fauvismContent .fauvismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .fauvismContent .fauvismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ContemporaryContent02 .fauvismContent .fauvismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .fauvismContent .fauvismContent-text span {
+    width: 100%;
+    font-size: 12px;
+  }
+  main .ContemporaryContent02 .fauvismContent figure {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .fauvismContent figure img.f1 {
+    width: 100%;
+    height: 230px;
+  }
+  main .ContemporaryContent02 .CubismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  main .ContemporaryContent02 .CubismContent .CubismContent-text {
+    width: 100%;
+    height: auto;
+    background-color: #E14D2A;
+    color: #ffffff;
+    padding: 50px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  main .ContemporaryContent02 .CubismContent .CubismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    line-height: 33px;
+  }
+  main .ContemporaryContent02 .CubismContent .CubismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ContemporaryContent02 .CubismContent .CubismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .CubismContent .CubismContent-text span {
+    font-size: 12px;
+  }
+  main .ContemporaryContent02 .CubismContent figure {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .CubismContent figure img.f2 {
+    width: 100%;
+    height: 230px;
+  }
+  main .ContemporaryContent02 .AbstractContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  main .ContemporaryContent02 .AbstractContent .AbstractContent-text {
+    width: 100%;
+    background-color: #00ABB3;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .ContemporaryContent02 .AbstractContent .AbstractContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .AbstractContent .AbstractContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ContemporaryContent02 .AbstractContent .AbstractContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .AbstractContent .AbstractContent-text span {
+    font-size: 12px;
+  }
+  main .ContemporaryContent02 .AbstractContent figure {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .AbstractContent figure img.f3 {
+    width: 100%;
+    height: 230px;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent .NeoPlasticismtent-text {
+    width: 100%;
+    height: auto;
+    background-color: #4E6E81;
+    color: #ffffff;
+    padding: 50px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent .NeoPlasticismtent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent .NeoPlasticismtent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent .NeoPlasticismtent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent .NeoPlasticismtent-text span {
+    font-size: 12px;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent figure {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .NeoPlasticismtent figure img.f4 {
+    width: 100%;
+    height: 230px;
+  }
+  main .ContemporaryContent02 .expressionismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  main .ContemporaryContent02 .expressionismContent .expressionismContent-text {
+    width: 100%;
+    background-color: #183A1D;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .ContemporaryContent02 .expressionismContent .expressionismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .expressionismContent .expressionismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+  main .ContemporaryContent02 .expressionismContent .expressionismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .expressionismContent .expressionismContent-text span {
+    font-size: 12px;
+  }
+  main .ContemporaryContent02 .expressionismContent figure {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .expressionismContent figure img.f5 {
+    width: 100%;
+    height: 230px;
+  }
+  main .ContemporaryContent02 .FuturismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+  }
+  main .ContemporaryContent02 .FuturismContent .FuturismContent-text {
+    width: 100%;
+    height: auto;
+    background-color: #FEC868;
+    color: #ffffff;
+    padding: 50px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  main .ContemporaryContent02 .FuturismContent .FuturismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .FuturismContent .FuturismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+  main .ContemporaryContent02 .FuturismContent .FuturismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ContemporaryContent02 .FuturismContent .FuturismContent-text span {
+    font-size: 12px;
+  }
+  main .ContemporaryContent02 .FuturismContent figure {
+    width: 100%;
+  }
+  main .ContemporaryContent02 .FuturismContent figure img.f6 {
+    width: 100%;
+    height: 230px;
+  }
+}/*# sourceMappingURL=sub5media.css.map */

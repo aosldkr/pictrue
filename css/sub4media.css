@@ -1,0 +1,262 @@
+@media (min-width: 375px) and (max-width: 768px) {
+  main {
+    width: 100%;
+    margin-top: 10vh;
+  }
+  main .Modern-MainImg {
+    width: 100%;
+    height: 90vh;
+    background: url(../img/modern-img/main-img.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  main .Modern-MainImg h2 {
+    color: #ffffff;
+    font-size: 40px;
+  }
+  main .ModernContent01 {
+    width: 80%;
+    margin: 0 auto;
+  }
+  main .ModernContent01 .EarlyModernTittle {
+    width: 100%;
+    margin-bottom: 100px;
+    letter-spacing: -0.01px;
+  }
+  main .ModernContent01 .EarlyModernTittle h3 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: #222222;
+    margin-bottom: 100px;
+    position: relative;
+    margin-bottom: 30px;
+  }
+  main .ModernContent01 .EarlyModernTittle h3::after {
+    content: "";
+    background-color: #222222;
+    width: 80%;
+    height: 2px;
+    position: absolute;
+    bottom: -6px;
+    margin-left: -157px;
+  }
+  main .ModernContent01 .EarlyModernTittle p {
+    font-size: 12px;
+    text-align: justify;
+    letter-spacing: 0.3px;
+  }
+  main .ModernContent02 {
+    width: 100%;
+  }
+  main .ModernContent02 .NeoclassicismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  main .ModernContent02 .NeoclassicismContent .NeoclassicismContent-text {
+    width: 100%;
+    background-color: #041A2F;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .ModernContent02 .NeoclassicismContent .NeoclassicismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .NeoclassicismContent .NeoclassicismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ModernContent02 .NeoclassicismContent .NeoclassicismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .NeoclassicismContent .NeoclassicismContent-text span {
+    width: 100%;
+    font-size: 12px;
+  }
+  main .ModernContent02 .NeoclassicismContent figure {
+    width: 100%;
+  }
+  main .ModernContent02 .NeoclassicismContent figure img {
+    width: 100%;
+    height: 230px;
+  }
+  main .ModernContent02 .RomanticismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  main .ModernContent02 .RomanticismContent .RomanticismContent-text {
+    width: 100%;
+    height: 513px;
+    background-color: #B5C7D3;
+    color: #ffffff;
+    padding: 50px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  main .ModernContent02 .RomanticismContent .RomanticismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    line-height: 33px;
+  }
+  main .ModernContent02 .RomanticismContent .RomanticismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ModernContent02 .RomanticismContent .RomanticismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .RomanticismContent .RomanticismContent-text span {
+    font-size: 12px;
+  }
+  main .ModernContent02 .RomanticismContent figure {
+    width: 100%;
+  }
+  main .ModernContent02 .RomanticismContent figure img {
+    width: 100%;
+    height: 230px;
+  }
+  main .ModernContent02 .RealisticContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  main .ModernContent02 .RealisticContent .RealisticContent-text {
+    width: 100%;
+    background-color: #A7727D;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .ModernContent02 .RealisticContent .RealisticContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .RealisticContent .RealisticContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ModernContent02 .RealisticContent .RealisticContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .RealisticContent .RealisticContent-text span {
+    font-size: 12px;
+  }
+  main .ModernContent02 .RealisticContent figure {
+    width: 100%;
+  }
+  main .ModernContent02 .RealisticContent figure img {
+    width: 100%;
+    height: 230px;
+  }
+  main .ModernContent02 .ImpressionismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  main .ModernContent02 .ImpressionismContent .ImpressionismContent-text {
+    width: 100%;
+    height: 500px;
+    background-color: #579BB1;
+    color: #ffffff;
+    padding: 50px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  main .ModernContent02 .ImpressionismContent .ImpressionismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    line-height: 33px;
+  }
+  main .ModernContent02 .ImpressionismContent .ImpressionismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ModernContent02 .ImpressionismContent .ImpressionismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .ImpressionismContent .ImpressionismContent-text span {
+    font-size: 12px;
+  }
+  main .ModernContent02 .ImpressionismContent figure {
+    width: 100%;
+  }
+  main .ModernContent02 .ImpressionismContent figure img {
+    width: 100%;
+    height: 230px;
+  }
+  main .ModernContent02 .NeoimpressionismContent {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 100px;
+  }
+  main .ModernContent02 .NeoimpressionismContent .NeoimpressionismContent-text {
+    width: 100%;
+    background-color: #678983;
+    color: #ffffff;
+    padding: 50px 30px 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  main .ModernContent02 .NeoimpressionismContent .NeoimpressionismContent-text h3 {
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    line-height: 33px;
+  }
+  main .ModernContent02 .NeoimpressionismContent .NeoimpressionismContent-text p {
+    font-size: 12px;
+    margin-bottom: 30px;
+    text-align: justify;
+    letter-spacing: -0.3px;
+  }
+  main .ModernContent02 .NeoimpressionismContent .NeoimpressionismContent-text h4 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin-bottom: 30px;
+  }
+  main .ModernContent02 .NeoimpressionismContent .NeoimpressionismContent-text span {
+    font-size: 12px;
+  }
+  main .ModernContent02 .NeoimpressionismContent figure {
+    width: 100%;
+  }
+  main .ModernContent02 .NeoimpressionismContent figure img {
+    width: 100%;
+    height: 230px;
+  }
+}/*# sourceMappingURL=sub4media.css.map */

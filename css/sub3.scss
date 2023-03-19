@@ -1,0 +1,167 @@
+main{
+    width: 100%;
+
+    .EarlyModern-MainImg{
+        width: 100%;
+        height: 90vh;
+        background: url(../img/earlymodern-img/Early\ Modern-main-img.jpg) center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h2{
+            color: #ffffff;
+            font-size: 60px;
+        }
+    }
+
+    .EarlyModernContent01{
+        width: 80%;
+        margin: 0 auto;
+        .EarlyModernTittle{
+            width: 100%;
+            margin-bottom: 180px;
+            letter-spacing: -0.01px;
+
+            h3{
+                font-size: 50px;
+                font-weight: lighter;
+                color: #222222;
+                margin-bottom: 180px;
+                position: relative;
+                margin-bottom: 60px;
+
+                &::after{
+                    content: "";
+                    background-color: #222222;
+                    width: 70.2%;
+                    height: 2px;
+                    position: absolute;
+                    bottom: 21px;
+                    margin-left: 60px;
+                }
+
+                p{
+                    font-size: 16px;              
+                }
+
+            }
+        }
+    }
+
+    .EarlyModernContent02{
+        width: 100%;
+
+        .RenaissanceContent{    
+            width: 100%;
+            display: flex;
+            
+            .RenaissanceContent-text{
+                width: 52%;
+                background-color: #FF8F1C;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.b1{
+                    width: 100%;
+                }
+            }
+        }
+
+        .BaroqueContent{
+            width: 100%;
+            display: flex;
+            
+            .BaroqueContent-text{
+                width: 48%;
+                background-color: #7B7A7A;
+                color: #ffffff;
+                padding: 80px 200px 80px 202px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+
+            figure{
+                width: 52%;
+
+                img.b2{
+                    width: 100%;
+                }
+            }
+
+            
+        }
+
+        .RococoContent{
+            width: 100%;
+            display: flex;
+            margin-bottom: 180px;
+            
+            .RococoContent-text{
+                width: 52%;
+                background-color: #E9B706;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.b3{
+                    width: 100%;
+                }
+            }
+        }
+
+
+      
+    }
+
+    
+
+}
+
+
+@import "sub3media";

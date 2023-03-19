@@ -1,0 +1,236 @@
+main{
+    width: 100%;
+
+    .paintingsMainImg{
+        width: 100%;
+        height: 90vh;
+        background: url(../img/paintings-img/mainimg.jpg) center;
+        background-repeat: no-repeat;
+        margin-bottom: 180px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        h2{
+            color: #ffffff;
+            font-size: 60px;
+            margin-top: 303px;
+        }
+
+        .inputBox{
+            margin-top: 80px;
+            position: relative;
+    
+            input{
+                width: 492px;
+                background: transparent;
+                border: inherit;
+                font-size: 18px;
+                padding-right: 50px;
+                background-position: 314px center;
+                box-sizing: border-box;
+                border-bottom: 2px solid #ffffff;
+                color: #ffffff;
+                padding-left: 6px;
+            }
+            input::placeholder { 
+                color: #ffffff;
+                font-weight: 100;
+                position: absolute;
+                bottom: 5px;
+            }
+            input:focus { 
+                outline: none; 
+            }
+
+            img{
+                width: 20px;
+                height: 20px;
+                position: absolute;
+                bottom: 10px;
+                right: 4px;   
+            }
+    
+    
+        }
+    }
+
+    .Paintingcontent{
+        width: 80%;
+        margin: 0 auto;
+
+        h3{
+            font-size: 40px;
+            font-weight: lighter;
+            color: #222222;
+            margin-bottom: 180px;
+            position: relative;
+
+            &::after{
+                content: "";
+                background-color: #222222;
+                width: 81.8%;
+                height: 2px;
+                position: absolute;
+                bottom: 21px;
+                margin-left: 60px;
+            }
+
+        }
+
+        .PaintingList{
+            width: 100%;
+            
+            margin-bottom: 100px;
+
+            .PaintingList01{
+                &.active{opacity: 1; transition: 0.5s;}
+                width: 100%; opacity: 0;
+                position: relative;
+                li{
+                    width:23%;
+                    margin-bottom: 60px;
+                    img{
+                        width: 350px;
+                        height: auto;
+                        margin-bottom: 20px;
+                    }
+                    h4{
+                        font-size: 18px;
+                        color: #222222;
+                        font-weight: lighter;
+                        margin-bottom: 10px;
+                        line-height: 21px;
+                    }
+                    span{
+                        font-size: 16px;
+                        color: #222222;
+                    }
+                }
+            }
+         
+        }
+
+        .pageNumber{
+            width: 100%;
+            display: inline-block;
+            text-align: center;
+            margin-bottom: 180px;
+    
+             a{
+                font-size: 20px;
+                font-weight: bold;
+                margin-right: 15px;
+                color: #222222;
+             }
+           }  
+
+    }
+
+
+}
+
+// content3 팝업박스
+.paintings-Popup1{
+    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0%;
+    left: 0;
+    z-index: 999;
+    background-color: rgba(20, 21, 25, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: none;
+  
+    &.active3{
+        display:flex;
+    }
+    
+    
+   
+    .paintings-Popup1-1{
+      width: 60%;
+      margin: 0 auto;
+      background-color: #ffffff;
+      padding: 60px 60px 60px;
+      position: relative;
+      
+   
+      .Popup-logo1{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        position: absolute;
+        z-index: 5;
+        left: 0;
+        top: 43px;
+        padding: 0 60px;
+  
+        .Popup-logo-title1{
+          font-size: 40px;
+          font-weight: lighter;
+          line-height: 24px;
+          background: #fff;
+          padding: 0px 55px 76px 0px
+        }
+  
+        .Popup-logo-close1{
+          background: #fff;
+          margin: -41px 30px 24px 0px;
+        }
+      }
+  
+      .Popupimg1{
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-around;
+        position: relative;
+        border: 2px solid #000;
+        padding: 8% 40px 5%;
+        max-height: 66vh;
+  
+        li{
+            display: flex;
+            justify-content: space-between;
+          
+            figure{
+                width: 34%;
+                overflow: hidden;
+                img{
+                    width: 100%;       
+                }
+            }
+            
+          .Popupimg1-text{
+            width: 61%;
+
+            h4{
+                font-size: 26px;
+                font-weight: lighter;
+                line-height: 22px;
+                margin-bottom: 10px;
+            }
+            span{
+                font-size: 18px;
+                color: #222222;
+            }
+            p{
+                font-size: 16px;
+                color: #222222;
+                margin-top: 30px;
+                line-height: 18px;
+                
+            }
+          }
+        }
+      }
+    }
+  }
+
+
+
+@import "paintingsmedia";

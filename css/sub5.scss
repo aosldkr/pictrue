@@ -1,0 +1,279 @@
+main{
+    width: 100%;
+
+    .Contemporary-MainImg{
+        width: 100%;
+        height: 90vh;
+        background: url(../img/Contemporary-img/main-img.jpg) center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h2{
+            color: #ffffff;
+            font-size: 60px;
+        }
+    }
+
+    .ContemporaryContent01{
+        width: 80%;
+        margin: 0 auto;
+        .ContemporaryTittle{
+            width: 100%;
+            margin-bottom: 180px;
+            letter-spacing: -0.01px;
+
+            h3{
+                font-size: 50px;
+                font-weight: lighter;
+                color: #222222;
+                margin-bottom: 180px;
+                position: relative;
+                margin-bottom: 60px;
+
+                &::after{
+                    content: "";
+                    background-color: #222222;
+                    width: 69%;
+                    height: 2px;
+                    position: absolute;
+                    bottom: 21px;
+                    margin-left: 60px;
+                }
+
+                p{
+                    font-size: 16px;              
+                }
+            }
+        }
+        .f1{
+            width: 48%;
+            img{
+                width: 100%;
+            }
+        }
+    }
+
+    .ContemporaryContent02{
+        width: 100%;
+
+        .fauvismContent{
+            width: 100%;
+            display: flex;
+            
+            .fauvismContent-text{
+                width: 52%;
+                background-color: #453C67;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.f1{
+                    width: 100%;
+                }
+            }
+        }
+
+        .CubismContent{
+            width: 100%;
+            display: flex;
+            
+            .CubismContent-text{
+                width: 48%;
+                // height: 684px;
+                height: auto;
+                background-color: #E14D2A;
+                color: #ffffff;
+                padding: 80px 200px 80px 202px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }   
+            }
+
+            figure{
+                width: 52%;
+
+                img.f2{
+                    width: 100%;
+                }
+            }
+
+            
+        }
+
+        .AbstractContent{
+            width: 100%;
+            display: flex;
+            
+            .AbstractContent-text{
+                width: 52%;
+                background-color: #00ABB3;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+                img.f3{
+                    width: 100%;
+                }
+            }
+        }
+
+        .NeoPlasticismtent{
+            width: 100%;
+            display: flex;
+            
+            .NeoPlasticismtent-text{
+                width: 48%;
+                // height: 678px;
+                height: auto;
+                background-color: #4E6E81;
+                color: #ffffff;
+                padding: 80px 200px 80px 202px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            
+            figure{
+                width: 52%;
+
+                img.f4{
+                    width: 100%;
+                }
+            }
+
+            
+        }
+
+        .expressionismContent{
+            width: 100%;
+            display: flex;
+            
+            .expressionismContent-text{
+                width: 52%;
+                background-color: #183A1D;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.f5{
+                    width: 100%;
+                }
+            }
+        }
+
+        .FuturismContent{
+            width: 100%;
+            display: flex;
+            margin-bottom: 180px;
+            
+            .FuturismContent-text{
+                width: 48%;
+                // height: 615px;
+                height: auto;
+                background-color: #FEC868;
+                color: #ffffff;
+                padding: 80px 200px 80px 202px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+
+            figure{
+                width: 52%;
+
+                img.f6{
+                    width: 100%;
+                }
+            }
+
+            
+        }
+
+       
+    }
+
+    
+
+}
+
+
+
+@import "sub5media";

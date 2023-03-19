@@ -1,0 +1,234 @@
+main{
+    width: 100%;
+
+    .Modern-MainImg{
+        width: 100%;
+        height: 90vh;
+        background: url(../img/modern-img/main-img.jpg) center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        h2{
+            color: #ffffff;
+            font-size: 60px;
+        }
+    }
+
+    .ModernContent01{
+        width: 80%;
+        margin: 0 auto;
+        .EarlyModernTittle{
+            width: 100%;
+            margin-bottom: 180px;
+            letter-spacing: -0.01px;
+
+            h3{
+                font-size: 50px;
+                font-weight: lighter;
+                color: #222222;
+                margin-bottom: 180px;
+                position: relative;
+                margin-bottom: 60px;
+
+                &::after{
+                    content: "";
+                    background-color: #222222;
+                    width: 78.8%;
+                    height: 2px;
+                    position: absolute;
+                    bottom: 21px;
+                    margin-left: 60px;
+                }
+
+                p{
+                    font-size: 16px;              
+                }
+
+            }
+        }
+    }
+
+    .ModernContent02{
+        width: 100%;
+
+        .NeoclassicismContent{
+            width: 100%;
+            display: flex;
+            
+            .NeoclassicismContent-text{
+                width: 52%;
+                background-color: #041A2F;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.c1{
+                    width: 100%;
+                }
+            }
+        }
+
+        .RomanticismContent{
+            width: 100%;
+            display: flex;
+            
+            .RomanticismContent-text{
+                width: 48%;
+                // height: 618px;
+                height: auto;
+                background-color: #B5C7D3;
+                color: #ffffff;
+                padding: 80px 200px 80px 202px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+
+            figure{
+                width: 52%;
+
+                img.c2{
+                    width: 100%;
+                }
+            }
+
+            
+        }
+
+        .RealisticContent{
+            width: 100%;
+            display: flex;
+            
+            .RealisticContent-text{
+                width: 52%;
+                background-color: #A7727D;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.c3{
+                    width: 100%;
+                }
+            }
+        }
+
+        .ImpressionismContent{
+            width: 100%;
+            display: flex;
+            
+            .ImpressionismContent-text{
+                width: 48%;
+                // height: 619px;
+                height: auto;
+                background-color: #579BB1;
+                color: #ffffff;
+                padding: 80px 200px 80px 202px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+
+            figure{
+                width: 52%;
+
+                img.c4{
+                    width: 100%;
+                }
+            }  
+        }
+
+        .NeoimpressionismContent{
+            width: 100%;
+            display: flex;
+            margin-bottom: 180px;
+            
+            .NeoimpressionismContent-text{
+                width: 52%;
+                background-color: #678983;
+                color: #ffffff;
+                padding: 80px 267px 80px 200px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+    
+                h3{
+                    font-size: 40px;
+                    font-weight: lighter;
+                }
+    
+                h4{
+                    font-size: 24px;
+                    font-weight: lighter;
+                }
+            }
+            figure{
+                width: 48%;
+
+                img.c5{
+                    width: 100%;
+                }
+            }
+        }
+   
+    }
+
+    
+
+}
+
+
+@import "sub4media";
