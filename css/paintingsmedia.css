@@ -41,6 +41,12 @@
     position: absolute;
     bottom: 5px;
   }
+  main .paintingsMainImg .inputBox input:-ms-input-placeholder {
+    color: #ffffff;
+    font-weight: 100;
+    position: absolute;
+    bottom: 5px;
+  }
   main .paintingsMainImg .inputBox input::placeholder {
     color: #ffffff;
     font-weight: 100;
@@ -141,10 +147,12 @@
   }
   .paintings-Popup1 .paintings-Popup1-1 {
     width: 96%;
+    height: 650px;
     margin: 0 auto;
     background-color: #ffffff;
     padding: 0px 0px 0px;
     position: relative;
+    overflow-x: scroll;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popup-logo1 {
     width: 100%;
@@ -153,7 +161,7 @@
     position: absolute;
     z-index: 5;
     left: 12;
-    top: 16px;
+    top: 20px;
     padding: 0 0px;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popup-logo1 .Popup-logo-title1 {
@@ -165,14 +173,14 @@
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popup-logo1 .Popup-logo-close1 {
     background: none;
-    margin: 5px 27px 0px 0px;
+    margin: 5px 19px 0px 0px;
     width: 16px;
     height: 16px;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 {
     width: 100%;
     margin: 0 auto;
-    display: flex;
+    display: block;
     justify-content: space-around;
     position: relative;
     border: none;
@@ -181,26 +189,27 @@
     padding-bottom: 64px;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li {
-    display: flex;
+    display: block;
     justify-content: space-between;
     margin: 0px;
     overflow-y: scroll;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li figure {
-    width: 38%;
+    width: 100%;
     overflow: hidden;
+    margin-bottom: 30px;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li figure img {
     width: 100%;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li .Popupimg1-text {
-    width: 58%;
+    width: 100%;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li .Popupimg1-text h4 {
     font-size: 18px;
     font-weight: lighter;
     line-height: 18px;
-    margin-bottom: 0px;
+    margin-bottom: 4px;
   }
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li .Popupimg1-text span {
     font-size: 14px;
@@ -209,7 +218,7 @@
   .paintings-Popup1 .paintings-Popup1-1 .Popupimg1 li .Popupimg1-text p {
     font-size: 12px;
     color: #222222;
-    margin-top: 14px;
+    margin-top: 20px;
     line-height: 18px;
   }
 }/*# sourceMappingURL=paintingsmedia.css.map */
